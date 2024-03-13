@@ -1,0 +1,96 @@
+@charset "UTF-8";
+/* Signup.css */
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #f0f0f0;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #F5BD8A;
+}
+
+.sub_div {
+    display: grid;
+    background-color: #FFE4B5;
+    padding: 20px;
+    border-radius: 12px 0px 0px 12px;
+    width: 400px;
+    height: 500px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+}
+.sub_div_child{
+box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    border-radius: 12px;}
+.form {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border-radius:5px;
+}
+
+h1 {
+		font-family:cursive;
+	margin-top:20px;
+    text-align: center;
+    color: #333;    
+}
+
+.swit {
+    text-align: center;
+}
+.login_btn:hover {
+	font-family: cursive;
+	background-color:#9E4C0E;
+    border-radius: 10px;
+    width: 70%; /* Make the button width 100% */
+    margin-left:50px;
+    margin-top: 20px;
+    border:1px solid #B75912;
+     color:#F5BD8A;
+    font-weight: 600;
+}
+.login_btn {
+	font-family: cursive;
+    background-color: #E88840;
+    border-radius: 10px;
+    width: 70%;
+    margin-left: 50px;
+    margin-top: 20px;
+    border: 1px solid #B75912;
+     color: #82512C;
+    font-weight: 600;
+    box-shadow: 0 0 10px #9E4C0E;
+    
+}
+.mainForm{
+	margin: 0px 16px;
+}
+
+img {
+    border-radius: 0px 12px 12px 0px;
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+}
+
+label{
+	    font-weight: 600;
+}
+a{
+	    color: #9E4C0E;
+}
+a:hover{
+	    color: #E88840;
+}
+.require{
+	color:red;
+}
