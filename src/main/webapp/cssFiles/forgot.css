@@ -1,7 +1,7 @@
 @charset "UTF-8";
  body {
         font-family: Arial, sans-serif;
-        background-color: #f8f0e3; /* Off-white background */
+        background-color: #F5BD8A; /* Off-white background */
         margin: 0;
         padding: 0;
         display: flex;
@@ -16,15 +16,15 @@
         border-radius: 12px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
-    h2 {
+    h1 {
         text-align: center;
         margin-bottom: 30px;
-        color: #654321; /* Brown text color */
+        color: #333;
+        font-family:cursive;
     }
     label {
         display: block;
         margin-bottom: 12px;
-        color: #654321; /* Brown label color */
     }
     input[type="email"],
     input[type="text"]
@@ -63,3 +63,19 @@
     input[type="submit"]:hover 	 {
         background-color: #654321; /* Darker shade of brown on hover */
     }
+    .swit {
+    text-align: center;
+}
+a{
+	    color: #9E4C0E;
+}
+a:hover{
+	    color: #E88840;
+}
+label{
+	    font-weight: 600;
+}
+
+.require{
+	color:red;
+}

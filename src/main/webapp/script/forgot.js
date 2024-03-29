@@ -26,7 +26,7 @@ $(document).ready(function() {
                         title: "Please Wait ",
                         icon: "success",
                         showConfirmButton: false,
-                        timer: 1000
+                        timer: 1500
                     });
         $.ajax({
             type: "POST",
@@ -34,10 +34,10 @@ $(document).ready(function() {
             data: { mail: recipient },
             success: function(response) {
             	console.log(response)
-            	tresresult=response.substring(0,11);
-            	console.log(tresresult)
+            	EmaildontExist=response.substring(0,11);
+            	console.log(EmaildontExist)
             	
-                if (tresresult === "EmailExists") {
+                if (EmaildontExist === "EmailExists") {
                     Swal.fire({
                         title: "Failed to send OTP Check Your Email",
                         icon: "error"
@@ -55,7 +55,7 @@ $(document).ready(function() {
             			// Set a timeout to enable the button after 3 seconds (for example)
             			setTimeout(function() {
             			    $("#sendOTP").prop("disabled", false).css("background-color", "#8b4513").css("cursor", "pointer"); // Enable the button and revert its color
-            			}, 30000); // 3000 milliseconds = 3 seconds
+            			}, 30000); // 30000 milliseconds = 30 seconds
          		});
             }},
             error: function(xhr, status, error) {
