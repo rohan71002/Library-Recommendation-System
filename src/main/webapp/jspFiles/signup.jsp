@@ -23,10 +23,16 @@
         String name = request.getParameter("name");
         String phone = request.getParameter("phone");
         String email = request.getParameter("email");
-        String pass=request.getParameter("password");
-        String cnfpassword = request.getParameter("cnfpassword");
-        String role = request.getParameter("Role");
-        
+        String pass=request.getParameter("pword");
+        String cnfpassword = request.getParameter("cnfpword");
+        String role = request.getParameter("role");
+        System.out.println(name);
+        System.out.println("name "+name);
+        System.out.println("phone "+phone);
+        System.out.println("email "+email);
+        System.out.println("pass "+pass);
+        System.out.println("cnfpassword "+cnfpassword);
+        System.out.println("role "+role);
         boolean log=false;
        
         try {
@@ -52,9 +58,9 @@
             if(!log){
             	String insertQuery = "INSERT INTO signup VALUES ('" + email + "','" + pass + "','" + role + "','" + name + "','" + phone + "');";
                 statement.executeUpdate(insertQuery);
-                TimeUnit.SECONDS.sleep(1);
-                response.sendRedirect("../htmlFiles/Login.html");
+                response.getWriter().println("success");
             }
+          
             // Execute a SELECT query
             
         } catch (SQLException | ClassNotFoundException e) {

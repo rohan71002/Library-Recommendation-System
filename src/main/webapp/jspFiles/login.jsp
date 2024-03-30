@@ -17,8 +17,10 @@
         // JDBC variables for opening, closing, and managing a connection
         Connection connection = null;
         Statement statement = null;
-        String email = request.getParameter("email");
-        String pass=request.getParameter("password");
+        String email = request.getParameter("mail");
+        System.out.println("email"+email);
+        String pass =  request.getParameter("pass");
+        System.out.println("pass"+pass);
         boolean log=false;
         
 
@@ -42,7 +44,8 @@ ResultSet resultSet = statement.executeQuery(selectQuery);
 	                // Retrieve data from the result set
 	                String data_email = resultSet.getString("email");
 	                String data_pass = resultSet.getString("password");
-	                
+	                System.out.println("data_email"+data_email);
+	                System.out.println("data_pass"+data_pass);
 	                // Output retrieved data to the web page
 	                if(data_email.equals(email) && data_pass.equals(pass) ){	
 	                	
@@ -50,13 +53,10 @@ ResultSet resultSet = statement.executeQuery(selectQuery);
 	                	break;
 	                }
 	            }
+	            System.out.println(log);
 	                if(log){
-	                	
-	                response.sendRedirect("../htmlFiles/signup.html");
-	                }
-	                else	                
-	                {
-	                	response.sendRedirect("../htmlFiles/Login.html");
+	                	response.getWriter().println("success");
+	                
 	                }
 
         } catch (SQLException | ClassNotFoundException e) {
