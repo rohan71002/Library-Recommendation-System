@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title> Survey Form</title>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<link rel="stylesheet" href="../cssFiles/SurveyForm.css">
+</head>
+
+<body>
+    <div class="container">
+        <h2 id="welcomeMessage"></h2>
+        
+        
+        <form id="filterForm">
+        
+            <div class="form-group">
+            
+                <label for="genre">Choose Genre:</label>
+                 <h2 id="welcomeMessage"></h2>
+                
+                <select id="genre" name="genre">
+                
+                	<option value="" disabled selected>Choose Genre</option>
+                	
+                    <option value="action">Action</option>
+                   
+                    <option value="adventure">Adventure</option>
+                    
+                    <option value="comedy">Comedy</option>
+                    
+                    <option value="drama">Drama</option>
+                    
+                    <option value="fantasy">Fantasy</option>
+                    
+                    <option value="horror">Horror</option>
+                    
+                    <option value="sci-fi">Science Fiction</option>
+                    
+                </select>
+                
+            </div>
+            
+            <button type="submit">Apply Filter</button>
+            <input type="button" class="btn btn-primary " id="submitbtn" value="Save Changes">
+            
+        </form>
+        
+        <div class="selected-items" id="selectedItems">
+        
+        </div>
+        
+    </div>
+
+    <!-- SVG Cross Icon -->
+    <svg id="crossIcon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    
+        <path fill="#FFFFFF" d="M9.414 8l3.293-3.293a1 1 0 0 0-1.414-1.414L8 6.586 4.707 3.293a1 1 0 1 0-1.414 1.414L6.586 8l-3.293 3.293a1 1 0 0 0 1.414 1.414L8 9.414l3.293 3.293a1 1 0 0 0 1.414-1.414L9.414 8z"/>
+    
+    </svg>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="../script/SurveyForm.js"></script>
+    
+</body>
+
+</html>

@@ -26,13 +26,7 @@
         String pass=request.getParameter("pword");
         String cnfpassword = request.getParameter("cnfpword");
         String role = request.getParameter("role");
-        System.out.println(name);
-        System.out.println("name "+name);
-        System.out.println("phone "+phone);
-        System.out.println("email "+email);
-        System.out.println("pass "+pass);
-        System.out.println("cnfpassword "+cnfpassword);
-        System.out.println("role "+role);
+        String genre= null;
         boolean log=false;
        
         try {
@@ -54,9 +48,10 @@
                 	break;
                 }
             }
-       
-            if(!log){
-            	String insertQuery = "INSERT INTO signup VALUES ('" + email + "','" + pass + "','" + role + "','" + name + "','" + phone + "');";
+      
+            if(!log)
+            {
+            	String insertQuery = "INSERT INTO signup VALUES ('" + email + "','" + pass + "','" + role + "','" + name + "','" + phone + "','"+ genre +"');";
                 statement.executeUpdate(insertQuery);
                 response.getWriter().println("success");
             }
