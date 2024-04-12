@@ -1,0 +1,117 @@
+/* Signup.css */
+
+@charset "UTF-8";
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #f0f0f0;
+}
+
+.main {
+    background-image: linear-gradient(to bottom right, #8cb3de, #bec0d1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+ .sub_div {
+            display: flex;
+             background-image: linear-gradient(to bottom right, #bec0d1, #8cb3de);
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+            border-radius: 0px 12px 12px 0px;
+            background-color: white;
+            height: 500px; /* Added height to match other div */
+            width: 300px; /* Added width to match other div */
+            padding: 20px;
+        }
+
+.sub_div_child {
+           display: flex;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    background-image: linear-gradient(to bottom right, #8cb3de, #bec0d1);
+    border-radius: 12px 0px 0px 12px;
+    height: 500px;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: stretch;
+  flex-direction: column;
+}
+
+.form {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+h1 {
+    font-family: cursive;
+    margin-top: 20px;
+    text-align: center;
+    color: #333;
+}
+
+.swit {
+    text-align: center;
+}
+#logoutLink{
+	cursor:pointer;
+}
+
+.navbar {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: 1000;
+    }
+.mainForm {
+    margin: 0 16px;
+}
+
+img {
+    border-radius: 0 12px 12px 0;
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+}
+
+label {
+    font-weight: 600;
+}
+
+a {
+    color: #9e4c0e;
+}
+
+a:hover {
+    color: #e88840;
+}
+
+.require {
+    color: red;
+}
+    h1 {
+            font-family: cursive;
+            text-align: center;
+          
+        }
+p {
+                font-weight: 500;
+font-family: cursive;
+ 
+margin-bottom: 10px;
+        }
+.abc{
+        background-color: #8cb3de !important;
+}
+        }

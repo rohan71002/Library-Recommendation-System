@@ -28,30 +28,24 @@
                 <label for="genre">Choose Genre:</label>
                  <h2 id="welcomeMessage"></h2>
                 
-                <select id="genre" name="genre">
-                
-                	<option value="" disabled selected>Choose Genre</option>
-                	
-                    <option value="action">Action</option>
-                   
-                    <option value="adventure">Adventure</option>
-                    
-                    <option value="comedy">Comedy</option>
-                    
-                    <option value="drama">Drama</option>
-                    
-                    <option value="fantasy">Fantasy</option>
-                    
-                    <option value="horror">Horror</option>
-                    
-                    <option value="sci-fi">Science Fiction</option>
-                    
-                </select>
+               <select id="genre" name="genre">
+                 <option value="" disabled selected>Choose Genre</option>
+                 <option value="mystery" data-icon="../images/action-icon.png">Mystery</option>
+                 <option value="adventure" data-icon="../images/adventure-icon.png">Adventure</option>
+                 <option value="romance" data-icon="../images/comedy-icon.png">Romance</option>
+                 <option value="fiction" data-icon="../images/drama-icon.png">Fiction</option>
+                 <option value="fantasy" data-icon="../images/fantasy-icon.png">Fantasy</option>
+                 <option value="horror" data-icon="../images/horror-icon.png">Horror</option>
+                 <option value="sci-fi" data-icon="../images/scifi-icon.png">Science Fiction</option>
+                 <option value="thriller" data-icon="../images/scifi-icon.png">Thriller</option>
+                 <option value="biography" data-icon="../images/scifi-icon.png">Biography</option>
+              </select>
+	
                 
             </div>
             
-            <button type="submit">Apply Filter</button>
-            <input type="button" class="btn btn-primary " id="submitbtn" value="Save Changes">
+            <button type="submit" id="applybtn" >Apply Filter</button>
+            <input type="button" id="submitbtn" value="Save Changes">
             
         </form>
         

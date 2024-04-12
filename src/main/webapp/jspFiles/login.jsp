@@ -54,7 +54,7 @@
 		               
 		               session.setAttribute("email", data_email);
 		                
-		               if (data_genre.equals("null")) {
+		               if (data_genre.equals("null") || data_genre.equals(" ")) {
 		                	
 		                   surveyRequired = true;  
 		                }

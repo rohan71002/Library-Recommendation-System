@@ -1,0 +1,1707 @@
+{
+  "books": [
+    {
+      "book_code": "HOR001",
+      "title": "The Haunting of Hill House",
+      "author": "Shirley Jackson",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/91cecTD8BYL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A chilling tale of supernatural occurrences in a haunted mansion."
+    },
+    {
+      "book_code": "HOR002",
+      "title": "IT",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/It_%281986%29_front_cover%2C_first_edition.jpg",
+      "description": "A group of friends confronts an ancient evil that preys on their fears."
+    },
+    {
+      "book_code": "HOR003",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/81ESc05qN5L._AC_UF1000,1000_QL80_.jpg",
+      "description": "The classic tale of Count Dracula's attempt to spread the undead curse in England."
+    },
+    {
+      "book_code": "HOR004",
+      "title": "Pet Sematary",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/817K2zMUqjL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A family discovers a cemetery with the power to bring the dead back to life, but with terrifying consequences."
+    },
+    {
+      "book_code": "HOR005",
+      "title": "The Exorcist",
+      "author": "William Peter Blatty",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/71Aa9Pgz0sL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A young girl is possessed by a malevolent entity, and two priests attempt to save her soul."
+    },
+    {
+      "book_code": "HOR006",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Horror",
+      "image": "https://cdn.kobo.com/book-images/bd3fce8f-a9a0-4cb0-a539-d8779090ba51/1200/1200/False/frankenstein-557.jpg",
+      "description": "A scientist creates a grotesque creature, but loses control over it, leading to tragedy."
+    },
+    {
+      "book_code": "HOR007",
+      "title": "The Shining",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/815Uhzxve5L._AC_UF1000,1000_QL80_.jpg",
+      "description": "A family becomes caretakers of an isolated hotel, but supernatural forces drive the father to madness."
+    },
+    {
+      "book_code": "HOR008",
+      "title": "Psycho",
+      "author": "Robert Bloch",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/61HWybNL0PL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A young woman on the run seeks refuge in a motel run by a disturbed man with a dark secret."
+    },
+    {
+      "book_code": "HOR009",
+      "title": "American Psycho",
+      "author": "Bret Easton Ellis",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/71PirX6+i8L._AC_UF1000,1000_QL80_.jpg",
+      "description": "A wealthy, successful investment banker hides his psychopathic alter ego while indulging in brutal murders."
+    },
+    {
+      "book_code": "HOR010",
+      "title": "The Silence of the Lambs",
+      "author": "Thomas Harris",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/71wytopNhPL._AC_UF1000,1000_QL80_.jpg",
+      "description": "An FBI trainee seeks the help of a brilliant but insane cannibalistic serial killer to catch another killer on the loose."
+    },
+    {
+      "book_code": "HOR011",
+      "title": "The Call of Cthulhu",
+      "author": "H.P. Lovecraft",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/41XiX08FKqL.jpg",
+      "description": "A tale of cosmic horror where an ancient, sleeping god threatens to awaken and destroy the world."
+    },
+    {
+      "book_code": "HOR012",
+      "title": "House of Leaves",
+      "author": "Mark Z. Danielewski",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/51yqBCrrZvL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A young family discovers their new home is larger on the inside than it is on the outside, with terrifying consequences."
+    },
+    {
+      "book_code": "HOR013",
+      "title": "Hell House",
+      "author": "Richard Matheson",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/71xZ1OkM36L._AC_UF1000,1000_QL80_.jpg",
+      "description": "A team of paranormal investigators explores a haunted house with a dark history, facing its malevolent spirits."
+    },
+    {
+      "book_code": "HOR014",
+      "title": "Let the Right One In",
+      "author": "John Ajvide Lindqvist",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/81GUaCBLFRL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A bullied boy befriends a mysterious young girl who turns out to be a centuries-old vampire."
+    },
+    {
+      "book_code": "HOR015",
+      "title": "The Girl with All the Gifts",
+      "author": "M.R. Carey",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/41jVpuojgOL._AC_UF1000,1000_QL80_.jpg",
+      "description": "In a post-apocalyptic world overrun by zombies, a young girl with a special gift may hold the key to humanity's survival."
+    },
+    {
+      "book_code": "HOR016",
+      "title": "Bird Box",
+      "author": "Josh Malerman",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/81ynNe0JQGL._UX250_.jpg",
+      "description": "A mother and her children must navigate the world blindfolded to avoid seeing mysterious creatures that drive people to deadly violence."
+    },
+    {
+      "book_code": "HOR017",
+      "title": "The Ruins",
+      "author": "Scott Smith",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/81oNmUkGJuL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A group of tourists in Mexico discovers ancient ruins inhabited by a malevolent force."
+    },
+    {
+      "book_code": "HOR018",
+      "title": "Coraline",
+      "author": "Neil Gaiman",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/71FvtJvTkRL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A young girl finds a secret door in her new home that leads to an alternate world with sinister secrets."
+    },
+    {
+      "book_code": "HOR019",
+      "title": "World War Z",
+      "author": "Max Brooks",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/71D5o4whyvL._AC_UF1000,1000_QL80_.jpg",
+      "description": "An oral history of the zombie apocalypse, documenting the global struggle for survival against the undead."
+    },
+    {
+      "book_code": "HOR020",
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/81TRJ2HbKdL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A father and son journey through a post-apocalyptic wasteland, facing cannibalistic survivors and other horrors."
+    },
+    {
+      "book_code": "HOR021",
+      "title": "Ghost Story",
+      "author": "Peter Straub",
+      "genre": "Horror",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Ghost_Story_by_Peter_Straub.jpg",
+      "description": "A group of elderly men in a small town swap ghost stories, only to discover that their own pasts are haunted."
+    },
+    {
+      "book_code": "HOR022",
+      "title": "The Turn of the Screw",
+      "author": "Henry James",
+      "genre": "Horror",
+      "image": "https://cdn.kobo.com/book-images/2b5b8693-8de6-4b37-ab67-7a3c6d7910e6/1200/1200/False/the-turn-of-the-screw-by-henry-james-6.jpg",
+      "description": "A governess at a remote estate becomes convinced that the children under her care are possessed by malevolent spirits."
+    },
+    {
+      "book_code": "HOR023",
+      "title": "Interview with the Vampire",
+      "author": "Anne Rice",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/71x2Fid9pnL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A vampire recounts his life story, spanning centuries, from his origins to his encounters with other immortals."
+    },
+    {
+      "book_code": "HOR024",
+      "title": "The Amityville Horror",
+      "author": "Jay Anson",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/71cHWZzpbvL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A family moves into a new home with a dark history, only to be terrorized by paranormal activity."
+    },
+    {
+      "book_code": "HOR025",
+      "title": "Heart-Shaped Box",
+      "author": "Joe Hill",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/I/817IKGOkp7L._AC_UF1000,1000_QL80_.jpg",
+      "description": "A retired rock star buys a haunted suit online, only to find himself tormented by the vengeful ghost it contains."
+    },
+    {
+      "book_code": "ADV001",
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/817IKGOkp7L._AC_UF1000,1000_QL80_.jpg",
+      "description": "A tale of pirates, buried treasure, and adventure on the high seas."
+    },
+    {
+      "book_code": "ADV002",
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/91sBZnKzEfL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A young boy and a runaway slave journey down the Mississippi River, encountering various characters along the way."
+    },
+    {
+      "book_code": "ADV003",
+      "title": "Around the World in Eighty Days",
+      "author": "Jules Verne",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/51gokiu1E7L.jpg",
+      "description": "A wealthy Englishman attempts to circumnavigate the globe in just eighty days, facing numerous challenges and adventures."
+    },
+    {
+      "book_code": "ADV004",
+      "title": "The Call of the Wild",
+      "author": "Jack London",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/91uZ3FzCq7L._AC_UF1000,1000_QL80_.jpg",
+      "description": "The story of a domesticated dog who returns to his wild instincts in the harsh Alaskan wilderness."
+    },
+    {
+      "book_code": "ADV005",
+      "title": "Jurassic Park",
+      "author": "Michael Crichton",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/91CbcH+c5eL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A billionaire creates a theme park with genetically engineered dinosaurs, leading to chaos and danger when they escape."
+    },
+    {
+      "book_code": "ADV006",
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/41dPswyg1ZL.jpg",
+      "description": "A man is shipwrecked on a deserted island, where he must learn to survive and eventually encounters cannibals and mutineers."
+    },
+    {
+      "book_code": "ADV007",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/71jD4jMityL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A reluctant hobbit embarks on a quest to reclaim a treasure guarded by a dragon, accompanied by a group of dwarves and a wizard."
+    },
+    {
+      "book_code": "ADV008",
+      "title": "The Adventures of Tom Sawyer",
+      "author": "Mark Twain",
+      "genre": "Adventure",
+      "image": "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_360,c_scale/jackets/9781847494900.jpg",
+      "description": "The mischievous adventures of a young boy growing up along the Mississippi River in the 19th century."
+    },
+    {
+      "book_code": "ADV009",
+      "title": "The Lost World",
+      "author": "Arthur Conan Doyle",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/81SoOSk6aLL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A group of explorers discovers a remote plateau where prehistoric creatures still roam."
+    },
+    {
+      "book_code": "ADV010",
+      "title": "The Swiss Family Robinson",
+      "author": "Johann David Wyss",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/71ZcDHNyW4L._AC_UF1000,1000_QL80_.jpg",
+      "description": "A family stranded on a deserted island must use their wits and ingenuity to survive and thrive."
+    },
+    {
+      "book_code": "ADV011",
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "genre": "Adventure",
+      "image": "https://cdn.kobo.com/book-images/11b28dec-5607-42cb-8375-fab3a1ed3107/353/569/90/False/the-count-of-monte-cristo-164.jpg",
+      "description": "A young sailor is falsely imprisoned, but escapes and seeks revenge on those who wronged him."
+    },
+    {
+      "book_code": "ADV012",
+      "title": "White Fang",
+      "author": "Jack London",
+      "genre": "Adventure",
+      "image": "https://cdn.kobo.com/book-images/db45f4e1-2436-4062-a9e9-6c4fe0c383d6/1200/1200/False/white-fang-204.jpg",
+      "description": "The story of a wild wolf-dog's journey from the wilderness to domestication."
+    },
+    {
+      "book_code": "ADV013",
+      "title": "20,000 Leagues Under the Sea",
+      "author": "Jules Verne",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/71zc4dyOnAL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A professor and his companions embark on a voyage aboard a submarine, encountering strange creatures and wonders of the deep."
+    },
+    {
+      "book_code": "ADV014",
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "image": "https://cdn.kobo.com/book-images/8b5d37e1-1e41-4924-aad8-094e24ae5db7/1200/1200/False/moby-dick-600.jpg",
+      "description": "The obsessed captain of a whaling ship pursues the elusive white whale, Moby-Dick, risking everything in his quest for revenge."
+    },
+    {
+      "book_code": "ADV015",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/81kLSHHjn-L._AC_UF1000,1000_QL80_.jpg",
+      "description": "The epic journey of the Greek hero Odysseus as he tries to return home after the Trojan War."
+    },
+    {
+      "book_code": "ADV016",
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/61AC3ZUWHQL._AC_UF1000,1000_QL80_.jpg",
+      "description": "The brilliant detective Sherlock Holmes solves a series of intriguing cases with his loyal friend, Dr. John Watson."
+    },
+    {
+      "book_code": "ADV017",
+      "title": "King Solomon's Mines",
+      "author": "H. Rider Haggard",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/51rFEyLdjlL.jpg",
+      "description": "An Englishman leads an expedition in search of a legendary diamond mine in the heart of Africa."
+    },
+    {
+      "book_code": "ADV018",
+      "title": "Journey to the Center of the Earth",
+      "author": "Jules Verne",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/61BWa0Yh03L._AC_UF1000,1000_QL80_.jpg",
+      "description": "A professor and his companions discover a passage to the Earth's core, encountering prehistoric creatures and wonders along the way."
+    },
+    {
+      "book_code": "ADV019",
+      "title": "Tarzan of the Apes",
+      "author": "Edgar Rice Burroughs",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/51AwOcLnRQL._AC_UF1000,1000_QL80_.jpg",
+      "description": "The story of a man raised by apes in the African jungle, who later becomes a hero and protector of the jungle."
+    },
+    {
+      "book_code": "ADV020",
+      "title": "The Three Musketeers",
+      "author": "Alexandre Dumas",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/6126N4kk9jL.jpg",
+      "description": "The adventures of a young swordsman who joins the legendary Musketeers of the Guard in 17th century France."
+    },
+    {
+      "book_code": "ADV021",
+      "title": "The Island of Doctor Moreau",
+      "author": "H.G. Wells",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/61SMykxrlVL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A shipwrecked man finds himself on an island where a mad scientist conducts experiments to create human-animal hybrids."
+    },
+    {
+      "book_code": "ADV022",
+      "title": "The Jungle Book",
+      "author": "Rudyard Kipling",
+      "genre": "Adventure",
+      "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781684123247/once-upon-a-story-the-jungle-book-9781684123247_hr.jpg",
+      "description": "The story of Mowgli, a young boy raised by wolves in the Indian jungle, and his adventures with various animal companions."
+    },
+    {
+      "book_code": "ADV023",
+      "title": "Gulliver's Travels",
+      "author": "Jonathan Swift",
+      "genre": "Adventure",
+      "image": "https://cdn.kobo.com/book-images/6f8ed772-5abb-4904-a5f5-0bedb2e87591/353/569/90/False/gulliver-s-travels-269.jpg",
+      "description": "The satirical tale of Lemuel Gulliver's journeys to strange and fantastical lands inhabited by unusual creatures."
+    },
+    {
+      "book_code": "ADV024",
+      "title": "Kidnapped",
+      "author": "Robert Louis Stevenson",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/716gUeJb0WL._AC_UF1000,1000_QL80_.jpg",
+      "description": "The story of a young man who is kidnapped and sold into slavery, but escapes and embarks on a quest for justice."
+    },
+    {
+      "book_code": "ADV025",
+      "title": "The Adventures of Tintin",
+      "author": "Hergé",
+      "genre": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/81VJeAJPt9L._AC_UF1000,1000_QL80_.jpg",
+      "description": "The globetrotting adventures of a young reporter and his faithful dog as they solve mysteries and uncover conspiracies."
+    },
+    {
+      "book_code": "MYST001",
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/517brh4+tIL.jpg",
+      "description": "A journalist teams up with a hacker to solve the decades-old disappearance of a wealthy industrialist's niece."
+    },
+    {
+      "book_code": "MYST002",
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/71FZo7-3BnL._AC_UF1000,1000_QL80_.jpg",
+      "description": "On the morning of their fifth wedding anniversary, a man reports that his wife has gone missing, but soon becomes the prime suspect."
+    },
+    {
+      "book_code": "MYST003",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/71y4X5150dL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A symbologist and a cryptologist follow a trail of clues across Europe to unravel a secret society's centuries-old mystery."
+    },
+    {
+      "book_code": "MYST004",
+      "title": "Murder on the Orient Express",
+      "author": "Agatha Christie",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/712ho02gL4L._AC_UF1000,1000_QL80_.jpg",
+      "description": "Hercule Poirot investigates a murder that occurs aboard the luxurious Orient Express train, leading to a complex web of motives and suspects."
+    },
+    {
+      "book_code": "MYST005",
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/61hW1E5NoQL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Sherlock Holmes and Dr. Watson investigate a series of mysterious deaths attributed to a legendary supernatural hound."
+    },
+    {
+      "book_code": "MYST006",
+      "title": "The Cuckoo's Calling",
+      "author": "Robert Galbraith (J.K. Rowling)",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/615XuraFKeL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Private investigator Cormoran Strike is hired to investigate the apparent suicide of a supermodel, but suspects foul play."
+    },
+    {
+      "book_code": "MYST007",
+      "title": "The Secret History",
+      "author": "Donna Tartt",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/71HcEbK3pEL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A group of classics students at an elite college become involved in a murder, leading to guilt, deception, and a spiral of deadly consequences."
+    },
+    {
+      "book_code": "MYST008",
+      "title": "In the Woods",
+      "author": "Tana French",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/51BGKzCKIRL.jpg",
+      "description": "A detective investigates a murder in a small Irish town, uncovering links to a traumatic event from his own childhood."
+    },
+    {
+      "book_code": "MYST009",
+      "title": "Big Little Lies",
+      "author": "Liane Moriarty",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/61-hanqwPAL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A group of women in a tranquil seaside town harbor dark secrets that lead to a murder investigation."
+    },
+    {
+      "book_code": "MYST010",
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "genre": "Mystery",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/k5zn9u80/book/6/1/3/the-silent-patient-original-imafgsy68ph6yggr.jpeg?q=20&crop=false",
+      "description": "A psychotherapist becomes obsessed with uncovering the truth behind a woman's selective mutism following the murder of her husband."
+    },
+    {
+      "book_code": "MYST011",
+      "title": "Sharp Objects",
+      "author": "Gillian Flynn",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/71-JO+PSPwL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A journalist returns to her hometown to cover the murder of two young girls, uncovering dark secrets from her past in the process."
+    },
+    {
+      "book_code": "MYST012",
+      "title": "And Then There Were None",
+      "author": "Agatha Christie",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/41RpulOsOoL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Ten strangers are invited to a remote island, where they are accused of past crimes and begin to die one by one in accordance with a sinister nursery rhyme."
+    },
+    {
+      "book_code": "MYST013",
+      "title": "The No. 1 Ladies' Detective Agency",
+      "author": "Alexander McCall Smith",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/61Zhkglpu0L._AC_UF1000,1000_QL80_.jpg",
+      "description": "Precious Ramotswe opens Botswana's first female-owned detective agency, solving cases with wit, wisdom, and a keen sense of justice."
+    },
+    {
+      "book_code": "MYST014",
+      "title": "The Name of the Rose",
+      "author": "Umberto Eco",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/81SXPDPFRbL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A Franciscan friar investigates a series of mysterious deaths at a secluded monastery, delving into the realms of theology, philosophy, and political intrigue."
+    },
+    {
+      "book_code": "MYST015",
+      "title": "The Maltese Falcon",
+      "author": "Dashiell Hammett",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/918mIOpYzmL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Private investigator Sam Spade becomes embroiled in a dangerous quest for a priceless statuette, pursued by criminals and cops alike."
+    },
+    {
+      "book_code": "MYST016",
+      "title": "The Secret Place",
+      "author": "Tana French",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/91ONkBR1EaL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A detective investigates the murder of a teenage boy at an elite girls' boarding school, where secrets and alliances run deep."
+    },
+    {
+      "book_code": "MYST017",
+      "title": "The Murder of Roger Ackroyd",
+      "author": "Agatha Christie",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/91UubXbwiRL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Hercule Poirot investigates the murder of a wealthy industrialist in a seemingly idyllic English village, uncovering shocking revelations along the way."
+    },
+    {
+      "book_code": "MYST018",
+      "title": "The Alienist",
+      "author": "Caleb Carr",
+      "genre": "Mystery",
+      "image": "https://cdn.kobo.com/book-images/77fc3d3c-ef74-4110-88b8-c2913ef92dfd/1200/1200/False/the-alienist-3.jpg",
+      "description": "A psychologist and a newspaper illustrator investigate a series of gruesome murders in 19th century New York City, using early forensic techniques."
+    },
+    {
+      "book_code": "MYST019",
+      "title": "In Cold Blood",
+      "author": "Truman Capote",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/613Du3aDx8L._AC_UF1000,1000_QL80_.jpg",
+      "description": "The true story of the brutal murders of the Clutter family in Kansas and the investigation and trial that followed."
+    },
+    {
+      "book_code": "MYST020",
+      "title": "The Poet",
+      "author": "Michael Connelly",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/81EeOci6FbL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A journalist investigates a series of murders linked to a notorious serial killer, uncovering a dark conspiracy within the police department."
+    },
+    {
+      "book_code": "MYST021",
+      "title": "The Dry",
+      "author": "Jane Harper",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/A1h14NkJGEL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Federal Agent Aaron Falk returns to his drought-stricken hometown to attend the funeral of his childhood friend, whose death is ruled a murder-suicide."
+    },
+    {
+      "book_code": "MYST022",
+      "title": "Before I Go to Sleep",
+      "author": "S.J. Watson",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/81RCo6+yH-L._AC_UF1000,1000_QL80_.jpg",
+      "description": "A woman suffering from amnesia wakes up each day with no memory of her past, but gradually begins to uncover dark secrets about her life."
+    },
+    {
+      "book_code": "MYST023",
+      "title": "The Lincoln Lawyer",
+      "author": "Michael Connelly",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/81jf+ljvbTL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Defense attorney Mickey Haller takes on a high-profile case defending a wealthy client accused of murder, but soon discovers a web of corruption and deceit."
+    },
+    {
+      "book_code": "MYST024",
+      "title": "The Snowman",
+      "author": "Jo Nesbø",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/61sh8pdabKL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Detective Harry Hole investigates the disappearance of a woman whose scarf is found wrapped around a snowman, leading to a series of gruesome murders."
+    },
+    {
+      "book_code": "MYST025",
+      "title": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "genre": "Mystery",
+      "image": "https://m.media-amazon.com/images/I/81O-JjbDfML._AC_UF1000,1000_QL80_.jpg",
+      "description": "A woman becomes embroiled in a missing persons investigation after witnessing something suspicious from her commuter train."
+    },
+    {
+      "book_code": "THR001",
+      "title": "The Silence of the Lambs",
+      "author": "Thomas Harris",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/71wytopNhPL._AC_UF1000,1000_QL80_.jpg",
+      "description": "An FBI trainee seeks the help of a brilliant but insane cannibalistic serial killer to catch another killer on the loose."
+    },
+    {
+      "book_code": "THR002",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/71y4X5150dL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A symbologist and a cryptologist follow a trail of clues across Europe to unravel a secret society's centuries-old mystery."
+    },
+    {
+      "book_code": "THR003",
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/71FZo7-3BnL._AC_UF1000,1000_QL80_.jpg",
+      "description": "On the morning of their fifth wedding anniversary, a man reports that his wife has gone missing, but soon becomes the prime suspect."
+    },
+    {
+      "book_code": "THR004",
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/517brh4+tIL.jpg",
+      "description": "A journalist teams up with a hacker to solve the decades-old disappearance of a wealthy industrialist's niece."
+    },
+    {
+      "book_code": "THR005",
+      "title": "The Bourne Identity",
+      "author": "Robert Ludlum",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/51FzWgvTQ+L.jpg",
+      "description": "A man is found floating in the Mediterranean Sea with no memory of his identity but possessing deadly skills, setting off a chain of events involving international espionage and conspiracy."
+    },
+    {
+      "book_code": "THR006",
+      "title": "The Firm",
+      "author": "John Grisham",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/71Hn0m5wthL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A young lawyer joins a prestigious law firm only to discover that it conceals dark secrets and ties to organized crime."
+    },
+    {
+      "book_code": "THR007",
+      "title": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/81-Q2OAVeXL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A woman becomes embroiled in a missing persons investigation after witnessing something suspicious from her commuter train."
+    },
+    {
+      "book_code": "THR008",
+      "title": "The Shining",
+      "author": "Stephen King",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/815Uhzxve5L._AC_UF1000,1000_QL80_.jpg",
+      "description": "A family becomes caretakers of an isolated hotel, but supernatural forces drive the father to madness."
+    },
+    {
+      "book_code": "THR009",
+      "title": "Misery",
+      "author": "Stephen King",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/81MBotti0gL._AC_UF1000,1000_QL80_.jpg",
+      "description": "An author is rescued from a car crash by a fan, only to find himself held captive and tortured until he writes a new book to her liking."
+    },
+    {
+      "book_code": "THR010",
+      "title": "The Girl Who Played with Fire",
+      "author": "Stieg Larsson",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/91aWx6LUh-L._AC_UF1000,1000_QL80_.jpg",
+      "description": "A journalist and a hacker investigate a sex trafficking ring while trying to clear the name of the hacker, who is accused of murder."
+    },
+    {
+      "book_code": "THR011",
+      "title": "The Pelican Brief",
+      "author": "John Grisham",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/51HId5Bo7IL.jpg",
+      "description": "A law student's legal brief implicates powerful figures in the assassination of two Supreme Court justices, putting her life in danger."
+    },
+    {
+      "book_code": "THR012",
+      "title": "The Hunt for Red October",
+      "author": "Tom Clancy",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/81POceS+C8L._AC_UF1000,1000_QL80_.jpg",
+      "description": "A Soviet submarine captain defects to the United States, sparking a high-stakes cat-and-mouse game between American and Soviet forces."
+    },
+    {
+      "book_code": "THR013",
+      "title": "The Reversal",
+      "author": "Michael Connelly",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/818FZJMXgUL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Defense attorney Mickey Haller is hired to prosecute a notorious child molester, leading to a tense courtroom showdown."
+    },
+    {
+      "book_code": "THR014",
+      "title": "Red Dragon",
+      "author": "Thomas Harris",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/81dkf1dFePL._AC_UY327_FMwebp_QL65_.jpg",
+      "description": "FBI profiler Will Graham enlists the help of imprisoned serial killer Hannibal Lecter to track down a new serial killer dubbed the 'Tooth Fairy.'"
+    },
+    {
+      "book_code": "THR015",
+      "title": "The Lincoln Lawyer",
+      "author": "Michael Connelly",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/51jjQxiY8iL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Defense attorney Mickey Haller takes on a high-profile case defending a wealthy client accused of murder, but soon discovers a web of corruption and deceit."
+    },
+    {
+      "book_code": "THR016",
+      "title": "The Day of the Jackal",
+      "author": "Frederick Forsyth",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/71sD0UT9tvL._AC_UF1000,1000_QL80_.jpg",
+      "description": "An assassin known only as 'The Jackal' is hired to kill French President Charles de Gaulle, prompting a desperate manhunt by French authorities."
+    },
+    {
+      "book_code": "THR017",
+      "title": "The Silence of the Lambs",
+      "author": "Thomas Harris",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/71wytopNhPL._AC_UF1000,1000_QL80_.jpg",
+      "description": "An FBI trainee seeks the help of a brilliant but insane cannibalistic serial killer to catch another killer on the loose."
+    },
+    {
+      "book_code": "THR018",
+      "title": "Along Came a Spider",
+      "author": "James Patterson",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/91as5fVKQQL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Detective Alex Cross is on the trail of a serial killer who kidnaps the children of wealthy parents, leading to a deadly game of cat and mouse."
+    },
+    {
+      "book_code": "THR019",
+      "title": "The Bone Collector",
+      "author": "Jeffery Deaver",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/517lDJ7cyHL.jpg",
+      "description": "A quadriplegic detective and a young officer team up to catch a serial killer who leaves behind cryptic clues at crime scenes."
+    },
+    {
+      "book_code": "THR020",
+      "title": "The Sum of All Fears",
+      "author": "Tom Clancy",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/71PWbh6th0L._AC_UF1000,1000_QL80_.jpg",
+      "description": "CIA analyst Jack Ryan races against time to prevent a nuclear catastrophe when a terrorist group obtains a nuclear weapon."
+    },
+    {
+      "book_code": "THR021",
+      "title": "The Revenant",
+      "author": "Michael Punke",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/6168j5RONUL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A frontiersman embarks on a quest for revenge against the men who left him for dead after a bear attack."
+    },
+    {
+      "book_code": "THR02022",
+      "title": "Before I Go to Sleep",
+      "author": "S.J. Watson",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/81eE6dRoycL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A woman suffering from amnesia wakes up each day with no memory of her past, but gradually begins to uncover dark secrets about her life."
+    },
+    {
+      "book_code": "THR023",
+      "title": "The Last Coyote",
+      "author": "Michael Connelly",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/71IN-ku4Q3L._AC_UF350,350_QL50_.jpg",
+      "description": "Detective Harry Bosch delves into his own troubled past while investigating the unsolved murder of his mother."
+    },
+    {
+      "book_code": "THR024",
+      "title": "The Andromeda Strain",
+      "author": "Michael Crichton",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/91bHkt+0KaL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A team of scientists races against time to contain a deadly extraterrestrial microorganism that threatens to wipe out humanity."
+    },
+    {
+      "book_code": "FIC001",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/41j-s9fHJcL.jpg",
+      "description": "A young girl learns about morality and empathy as her lawyer father defends an innocent black man accused of rape in 1930s Alabama."
+    },
+    {
+      "book_code": "FIC002",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/61ZewDE3beL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A dystopian novel set in a totalitarian society where the government monitors and controls every aspect of citizens' lives."
+    },
+    {
+      "book_code": "FIC003",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/71V1cA2fiZL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A story of wealth, love, and betrayal set in the Roaring Twenties, revolving around the enigmatic Jay Gatsby and his obsession with Daisy Buchanan."
+    },
+    {
+      "book_code": "FIC004",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/71Q1tPupKjL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A classic romance novel following the tumultuous relationship between the proud Mr. Darcy and the prejudiced Elizabeth Bennet."
+    },
+    {
+      "book_code": "FIC005",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/8125BDk3l9L._AC_UF1000,1000_QL80_.jpg",
+      "description": "The coming-of-age story of Holden Caulfield, a disillusioned teenager navigating the complexities of adolescence and society."
+    },
+    {
+      "book_code": "FIC006",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/91Yr0n5lNWL._AC_UF1000,1000_QL80_.jpg",
+      "description": "An epic fantasy trilogy following the quest to destroy the One Ring and defeat the Dark Lord Sauron, set in the mythical world of Middle-earth."
+    },
+    {
+      "book_code": "FIC007",
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/61PBBKyZ1rL._AC_UF1000,1000_QL80_.jpg",
+      "description": "The obsessed captain of a whaling ship pursues the elusive white whale, Moby-Dick, risking everything in his quest for revenge."
+    },
+    {
+      "book_code": "FIC008",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/81FPzmB5fgL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A shepherd boy follows his dreams and embarks on a journey to discover his destiny, encountering wise mentors and mystical experiences along the way."
+    },
+    {
+      "book_code": "FIC009",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/71fm0Ap7JcL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A man remains eternally youthful while his portrait ages and reflects the corruption of his soul, leading to a downward spiral of decadence and tragedy."
+    },
+    {
+      "book_code": "FIC010",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/91D4YvdC0dL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A dystopian novel set in a future world where technology and genetic engineering have created a society devoid of individuality and emotion."
+    },
+    {
+      "book_code": "FIC011",
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/61kKUlUoQHL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A father and son journey across a post-apocalyptic landscape, struggling to survive and retain their humanity in the face of overwhelming despair."
+    },
+    {
+      "book_code": "FIC012",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/71jD4jMityL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A reluctant hobbit embarks on a quest to reclaim a treasure guarded by a dragon, accompanied by a group of dwarves and a wizard."
+    },
+    {
+      "book_code": "FIC013",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/81rzOcDMT1L._AC_UF1000,1000_QL80_.jpg",
+      "description": "A scientist creates a grotesque creature in an unorthodox experiment, leading to tragic consequences and a philosophical exploration of humanity."
+    },
+    {
+      "book_code": "FIC014",
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/81svZOFopwL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A young girl falls down a rabbit hole into a whimsical world filled with eccentric characters and nonsensical adventures."
+    },
+    {
+      "book_code": "FIC015",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/61RmfGsyCrL._AC_UF1000,1000_QL80_.jpg ",
+      "description": "The orphaned Jane Eyre overcomes adversity to find love and independence in Victorian England, despite the obstacles thrown her way."
+    },
+    {
+      "book_code": "FIC016",
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/81IzbD2IiIL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A gripping tale of friendship, betrayal, and redemption set against the backdrop of Afghanistan's tumultuous history."
+    },
+    {
+      "book_code": "FIC017",
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/91hJ+hgZm4L._AC_UF350,350_QL80_.jpg",
+      "description": "A multigenerational saga chronicling the rise and fall of the Buendía family in the fictional town of Macondo, blending magical realism with historical events."
+    },
+    {
+      "book_code": "FIC018",
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/61SpcaD4poL._AC_UF1000,1000_QL80_.jpg",
+      "description": "In a dystopian society where women are oppressed and used for reproduction, one woman rebels against the system in search of freedom."
+    },
+    {
+      "book_code": "FIC019",
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/91JGwQlnu7L._AC_UF1000,1000_QL80_.jpg",
+      "description": "Narrated by Death, this powerful story follows a young girl living in Nazi Germany who steals books and finds solace in the written word during the horrors of war."
+    },
+    {
+      "book_code": "FIC020",
+      "title": "The Secret History",
+      "author": "Donna Tartt",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/71HcEbK3pEL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A group of classics students at an elite college become involved in a murder, leading to guilt, deception, and a spiral of deadly consequences."
+    },
+    {
+      "book_code": "FIC021",
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/71+whvJjE3L._AC_UF1000,1000_QL80_.jpg",
+      "description": "Two young illusionists engage in a magical competition within a mysterious circus that only appears at night, but their rivalry soon turns into love."
+    },
+    {
+      "book_code": "FIC022",
+      "title": "The Goldfinch",
+      "author": "Donna Tartt",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/71ud9Tcj5YL._AC_UF1000,1000_QL80_.jpg",
+      "description": "After surviving a terrorist attack at a museum, a young boy clings to a painting that becomes a symbol of his turbulent life and quest for identity."
+    },
+    {
+      "book_code": "FIC023",
+      "title": "Never Let Me Go",
+      "author": "Kazuo Ishiguro",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/61V5KyS0obL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A haunting tale set in an alternate reality where cloned children are raised to be organ donors, exploring themes of love, identity, and mortality."
+    },
+    {
+      "book_code": "FIC024",
+      "title": "The Book of Lost Things",
+      "author": "John Connolly",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/61eatw6IiBL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A young boy discovers a magical realm filled with fairy tales and nightmares, embarking on a quest to find his way home and confront his deepest fears."
+    },
+    {
+      "book_code": "FIC025",
+      "title": "The Nightingale",
+      "author": "Kristin Hannah",
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/81R2jFIqpoL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Two sisters in Nazi-occupied France struggle to survive and resist the German occupation in their own ways, testing the limits of their courage and sacrifice."
+    },
+    {
+      "book_code": "FAN001",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/81q77Q39nEL._SY466_.jpg",
+      "description": "An orphaned boy discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry, where he uncovers the truth about his past and battles the dark wizard Voldemort."
+    },
+    {
+      "book_code": "FAN002",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/818umIdoruL._SY466_.jpg",
+      "description": "Harry returns to Hogwarts for his second year and discovers dark secrets hidden within the school, including the legend of the Chamber of Secrets and the monster within."
+    },
+    {
+      "book_code": "FAN003",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/81NQA1BDlnL._SY466_.jpg",
+      "description": "Harry learns the truth about his parents' past and confronts the escaped prisoner Sirius Black, while uncovering the dark secrets of Hogwarts' past."
+    },
+    {
+      "book_code": "FAN004",
+      "title": "Harry Potter and the Goblet of Fire",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/81zeKRGCPpL._SY466_.jpg",
+      "description": "Harry competes in the dangerous Triwizard Tournament and faces the return of Lord Voldemort, leading to a climactic showdown that changes everything."
+    },
+    {
+      "book_code": "FAN005",
+      "title": "Harry Potter and the Order of the Phoenix",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/51Z7ZD8xBGL._SY445_SX342_.jpg",
+      "description": "As Voldemort rises to power, Harry and his friends form Dumbledore's Army to resist the oppressive regime at Hogwarts and prepare for the coming war."
+    },
+    {
+      "book_code": "FAN006",
+      "title": "Harry Potter and the Half-Blood Prince",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/81DN1723hUL._SY466_.jpg",
+      "description": "As Voldemort's forces gather strength, Harry learns crucial information about the Dark Lord's past and prepares for the final battle against evil."
+    },
+    {
+      "book_code": "FAN007",
+      "title": "Harry Potter and the Deathly Hallows",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/81aCMT1zKtL._SY466_.jpg",
+      "description": "In the epic conclusion, Harry, Ron, and Hermione embark on a perilous quest to destroy Voldemort's Horcruxes and defeat the Dark Lord once and for all."
+    },
+    {
+      "book_code": "FAN008",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/71jD4jMityL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A reluctant hobbit embarks on a quest to reclaim a treasure guarded by a dragon, accompanied by a group of dwarves and a wizard."
+    },
+    {
+      "book_code": "FAN009",
+      "title": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/714ExofeKJL._SY466_.jpg",
+      "description": "In the Seven Kingdoms of Westeros, noble families vie for control of the Iron Throne while an ancient threat beyond the Wall threatens the realm."
+    },
+    {
+      "book_code": "FAN010",
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/91UzPegYyjL._AC_UF1000,1000_QL80_.jpg",
+      "description": "An innkeeper recounts his past as a gifted young musician and magician, revealing the truth behind legends and mysteries."
+    },
+    {
+      "book_code": "FAN011",
+      "title": "Mistborn: The Final Empire",
+      "author": "Brandon Sanderson",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/618kMrmCLpL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A young thief with unique magical abilities joins a crew of rebels to overthrow the immortal Lord Ruler and restore balance to the world."
+    },
+    {
+      "book_code": "FAN012",
+      "title": "The Lies of Locke Lamora",
+      "author": "Scott Lynch",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/91pbvnDj5FL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A group of skilled thieves known as the Gentlemen Bastards plots elaborate heists in the city of Camorr, but their latest scheme attracts dangerous enemies."
+    },
+    {
+      "book_code": "FAN013",
+      "title": "The Way of Kings",
+      "author": "Brandon Sanderson",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/41ylteMSHML.jpg",
+      "description": "In the world of Roshar, a war-weary soldier, a slave, and a noblewoman embark on separate journeys that will change the fate of nations."
+    },
+    {
+      "book_code": "FAN014",
+      "title": "The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/71lKy8RoFUL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A diverse group of companions sets out to destroy the One Ring and defeat the Dark Lord Sauron, facing perilous challenges along the way."
+    },
+    {
+      "book_code": "FAN015",
+      "title": "Assassin's Apprentice",
+      "author": "Robin Hobb",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/71pZZvBLPxL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A royal bastard becomes the apprentice to a skilled assassin, navigating court intrigue and supernatural threats while discovering his own destiny."
+    },
+    {
+      "book_code": "FAN016",
+      "title": "Eragon",
+      "author": "Christopher Paolini",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/91EJQU2B4cL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A young farm boy discovers a dragon egg and becomes the last of the Dragon Riders, destined to battle the evil king Galbatorix."
+    },
+    {
+      "book_code": "FAN017",
+      "title": "American Gods",
+      "author": "Neil Gaiman",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/91EJQU2B4cL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Shadow Moon becomes entangled in a conflict between old and new gods, embarking on a journey across America that blurs the line between reality and myth."
+    },
+    {
+      "book_code": "FAN018",
+      "title": "The Eye of the World",
+      "author": "Robert Jordan",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/91cJ0-MXtGL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A group of young villagers discovers they are the reincarnations of legendary heroes, destined to battle the Dark One and save the world."
+    },
+    {
+      "book_code": "FAN019",
+      "title": "The Final Empire",
+      "author": "Brandon Sanderson",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/618kMrmCLpL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A young thief with the power of Allomancy joins a crew of rebels to overthrow the immortal Lord Ruler and restore balance to the world."
+    },
+    {
+      "book_code": "FAN020",
+      "title": "The Colour of Magic",
+      "author": "Terry Pratchett",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/91eTcsbExtL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A hapless wizard and his bumbling companion embark on a series of misadventures across the Discworld, encountering dragons, gods, and absurdities."
+    },
+    {
+      "book_code": "FAN021",
+      "title": "The Magicians",
+      "author": "Lev Grossman",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/815RxHL-3jL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A group of young adults attend Brakebills College for Magical Pedagogy, but soon discover that the magical world is darker and more dangerous than they imagined."
+    },
+    {
+      "book_code": "FAN022",
+      "title": "The Blade Itself",
+      "author": "Joe Abercrombie",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/61IfHLnUp+L._AC_UF1000,1000_QL80_.jpg",
+      "description": "In a world torn by war and political intrigue, a barbarian warrior, a disgraced nobleman, and a cunning wizard become unlikely allies in a struggle for survival."
+    },
+    {
+      "book_code": "FAN023",
+      "title": "Sabriel",
+      "author": "Garth Nix",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/61VuiYpfiiL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A young necromancer journeys into the mystical Old Kingdom to rescue her father, battling dark forces and unraveling ancient mysteries."
+    },{
+      "book_code": "FAN024",
+      "title": "Neverwhere",
+      "author": "Neil Gaiman",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/41fC-yQ6-fL.jpg",
+      "description": "After falling through the cracks of society into the fantastical world of London Below, a young man must navigate its dangers and mysteries to find his way home."
+    },
+    {
+      "book_code": "FAN025",
+      "title": "The Last Unicorn",
+      "author": "Peter S. Beagle",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/91o7Hg2VjWL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A unicorn embarks on a quest to discover if she is truly the last of her kind, encountering magic, danger, and unexpected allies along the way."
+    },
+    {
+      "book_code": "ROM001",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/71Q1tPupKjL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A witty and independent-minded Elizabeth Bennet navigates the complexities of love and social status in Georgian England, ultimately finding happiness with the proud Mr. Darcy."
+    },
+    {
+      "book_code": "ROM002",
+      "title": "Outlander",
+      "author": "Diana Gabaldon",
+      "genre": "Romance",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSownS09O1UpEDxmeK1_oM_fMqyEpCT8LCUaV6hyw18Gw&s",
+      "description": "In 1945, a WWII nurse is mysteriously transported back in time to 18th-century Scotland, where she falls in love with a dashing Highland warrior amidst political intrigue and danger."
+    },
+    {
+      "book_code": "ROM003",
+      "title": "The Notebook",
+      "author": "Nicholas Sparks",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/811f29lL4WL._AC_UF1000,1000_QL80_.jpg",
+      "description": "An elderly man reads from his faded notebook to a fellow nursing home resident, recounting the passionate love story of a young couple torn apart by class differences and war."
+    },
+    {
+      "book_code": "ROM004",
+      "title": "Me Before You",
+      "author": "Jojo Moyes",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/61Ax4eSeTDL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A young woman becomes the caregiver for a quadriplegic man, and as they form an unlikely bond, they discover the transformative power of love and the courage to embrace life's challenges."
+    },
+    {
+      "book_code": "ROM005",
+      "title": "A Walk to Remember",
+      "author": "Nicholas Sparks",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/71bhjJHmpQL._AC_UF1000,1000_QL80_.jpg",
+      "description": "In a small North Carolina town, a rebellious teenager and a minister's daughter find unexpected love and inspiration, despite the looming shadow of tragedy."
+    },
+    {
+      "book_code": "ROM006",
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/51r27MDeQQL._SY445_SX342_.jpg",
+      "description": "Two teenagers with cancer meet and fall in love at a support group, embarking on a journey of friendship, love, and self-discovery in the face of mortality."
+    },
+    {
+      "book_code": "ROM007",
+      "title": "Romeo and Juliet",
+      "author": "William Shakespeare",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/6126wByIjvL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Shakespeare's timeless tale of star-crossed lovers from feuding families, whose passionate romance leads to tragedy and reconciliation."
+    },
+    {
+      "book_code": "ROM008",
+      "title": "The Time Traveler's Wife",
+      "author": "Audrey Niffenegger",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/71Ka17Z921L._AC_UF1000,1000_QL80_.jpg",
+      "description": "A librarian suffering from a rare genetic disorder involuntarily time travels, leading to a complex relationship with his wife as they navigate the challenges of love across time."
+    },
+    {
+      "book_code": "ROM009",
+      "title": "Eleanor & Park",
+      "author": "Rainbow Rowell",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/61yChW3Um0L._AC_UF1000,1000_QL80_.jpg",
+      "description": "Two misfit teenagers from different backgrounds bond over comic books and music, forging a deep and unconventional connection that transcends the struggles of adolescence."
+    },
+    {
+      "book_code": "ROM010",
+      "title": "Bridgerton: The Duke and I",
+      "author": "Julia Quinn",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/51R2OIt8UIL._AC_UF1000,1000_QL80_.jpg",
+      "description": "In Regency-era London, the Duke of Hastings and a spirited debutante enter into a fake courtship to achieve their own goals, but their charade soon turns into real passion."
+    },
+    {
+      "book_code": "ROM011",
+      "title": "P.S. I Love You",
+      "author": "Cecelia Ahern",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/71n1NzdbO4L._AC_UF1000,1000_QL80_.jpg",
+      "description": "After her husband's untimely death, a young widow discovers a series of letters he left behind, each containing instructions to help her navigate life and find happiness again."
+    },
+    {
+      "book_code": "ROM012",
+      "title": "The Princess Bride",
+      "author": "William Goldman",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/818OlcwesNL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A timeless tale of true love, adventure, and derring-do, featuring pirates, princesses, and giants, as a farm boy named Westley seeks to rescue his true love, Princess Buttercup, from an evil prince."
+    },
+    {
+      "book_code": "ROM013",
+      "title": "The Rosie Project",
+      "author": "Graeme Simsion",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/4184WONMh1L._SY445_SX342_.jpg",
+      "description": "A socially awkward genetics professor creates a scientifically sound questionnaire to find the perfect wife, but his plans are derailed when he meets a free-spirited bartender who challenges his perceptions of love."
+    },
+    {
+      "book_code": "ROM014",
+      "title": "Bridgerton: The Viscount Who Loved Me",
+      "author": "Julia Quinn",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/81U2QyJN6ZL._AC_UF1000,1000_QL80_.jpg",
+      "description": "In the glittering world of Regency London, a headstrong debutante and a charming viscount engage in a battle of wits and passion, leading to unexpected revelations and undeniable love."
+    },
+    {
+      "book_code": "ROM015",
+      "title": "A Court of Thorns and Roses",
+      "author": "Sarah J. Maas",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/81rJtdRBSFL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A young huntress is ensnared in the world of the faeries after killing a wolf in the woods, and as she navigates their dangerous politics and intrigues, she discovers a forbidden love that could change everything."
+    },
+    {
+      "book_code": "ROM016",
+      "title": "The Hating Game",
+      "author": "Sally Thorne",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/718NPGNgt9L._AC_UF1000,1000_QL80_.jpg",
+      "description": "In this enemies-to-lovers workplace romance, two co-workers engage in a battle of wits and competition, but their animosity gradually transforms into unexpected attraction."
+    },
+    {
+      "book_code": "ROM017",
+      "title": "Attachments",
+      "author": "Rainbow Rowell",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/61V9bsDizIL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Set in the early days of email, this quirky romance follows an IT guy who falls for a woman after reading her personal conversations in work emails, leading to a charming and unconventional love story."
+    },
+    {
+      "book_code": "ROM018",
+      "title": "The Kiss Quotient",
+      "author": "Helen Hoang",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/81K3eR7qTvL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A brilliant but socially awkward woman hires an escort to help her improve her romantic skills, but as they spend time together, they find themselves falling for each other in this steamy and heartwarming romance."
+    },
+    {
+      "book_code": "ROM019",
+      "title": "The Simple Wild",
+      "author": "K.A. Tucker",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/71gyLEGAECL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A city girl travels to the Alaskan wilderness to reconnect with her estranged father, where she clashes with a rugged bush pilot, leading to a poignant and unexpected romance amidst the stunning backdrop of nature."
+    },
+    {
+      "book_code": "ROM020",
+      "title": "The Wedding Date",
+      "author": "Jasmine Guillory",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/81DLf9MvquL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Two strangers meet in a stalled elevator and impulsively decide to pretend to be a couple for a wedding weekend, but their fake relationship soon turns into something real in this delightful and charming romance."
+    },
+    {
+      "book_code": "ROM021",
+      "title": "Beach Read",
+      "author": "Emily Henry",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/71Qdnp4zmlL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Two rival authors, one known for romance and the other for literary fiction, swap genres for the summer and embark on a bet to write each other's style, leading to unexpected revelations and romance."
+    },
+    {
+      "book_code": "ROM022",
+      "title": "The Bromance Book Club",
+      "author": "Lyssa Kay Adams",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/818KyoQbL-L._AC_UF1000,1000_QL80_.jpg",
+      "description": "In this hilarious and heartwarming romance, a group of men form a secret book club where they read romance novels to learn how to be better partners, but their efforts are tested when one member's marriage is on the rocks."
+    },
+    {
+      "book_code": "ROM023",
+      "title": "Red, White & Royal Blue",
+      "author": "Casey McQuiston",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/71pSRcqtzbL._AC_UF1000,1000_QL80_.jpg",
+      "description": "The son of the U.S. President and a British prince engage in a secret romance, navigating politics, family expectations, and their own feelings in this witty and heartfelt LGBTQ+ romance."
+    },
+    {
+      "book_code": "ROM024",
+      "title": "The Flatshare",
+      "author": "Beth O'Leary",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/I/41W79q36XtL.jpg",
+      "description": "Two roommates share a flat but never meet, communicating only through notes left around the apartment, until their lives intersect in unexpected ways and they discover love can be found in the most unlikely places."
+    },
+    {
+      "book_code": "SF001",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/81T5ecpb8aL._AC_UF1000,1000_QL80_.jpg",
+      "description": "In a distant future where interstellar travel is possible, noble houses vie for control of the desert planet Arrakis and its valuable spice, leading to political intrigue, betrayal, and a prophesied messiah."
+    },
+    {
+      "book_code": "SF002",
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/51i+R7TVLBL.jpg",
+      "description": "An ordinary human is whisked away on a series of absurd and hilarious adventures across the galaxy after Earth is destroyed to make way for a hyperspace bypass."
+    },
+    {
+      "book_code": "SF003",
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/81pIICZO2PL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A washed-up computer hacker is hired for one last job that takes him deep into the virtual reality of cyberspace, where he uncovers a sinister conspiracy and battles powerful AI."
+    },
+    {
+      "book_code": "SF004",
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/91ZYBjR+gYL._SY466_.jpg",
+      "description": "In the waning days of the Galactic Empire, a visionary mathematician creates a plan to preserve knowledge and shorten the period of chaos before the rise of a new empire."
+    },
+    {
+      "book_code": "SF005",
+      "title": "Snow Crash",
+      "author": "Neal Stephenson",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/91ZYBjR+gYL._SY466_.jpg",
+      "description": "In a future America where the government has collapsed, a hacker and pizza delivery driver teams up with a katana-wielding courier to uncover a plot involving virtual reality, ancient Sumerian mythology, and a deadly virus."
+    },
+    {
+      "book_code": "SF006",
+      "title": "Ender's Game",
+      "author": "Orson Scott Card",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/81nTNtqEOCL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A gifted child is recruited by the military to train as a commander in Earth's war against an alien species, but as he excels in simulated battles, he discovers the true purpose of his training."
+    },
+    {
+      "book_code": "SF007",
+      "title": "2001: A Space Odyssey",
+      "author": "Arthur C. Clarke",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/61lJNV04+wL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Astronauts aboard a spaceship bound for Jupiter encounter a mysterious monolith that may hold the key to humanity's evolution, leading to a journey beyond the limits of human comprehension."
+    },
+    {
+      "book_code": "SF008",
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/31V9lQ1cRgL._SY445_SX342_.jpg",
+      "description": "Stranded alone on Mars after a mission goes awry, an astronaut must use his ingenuity and resourcefulness to survive long enough for a rescue mission to reach him."
+    },
+    {
+      "book_code": "SF009",
+      "title": "Hyperion",
+      "author": "Dan Simmons",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/815iljzMdaL._AC_UF1000,1000_QL80_.jpg",
+      "description": "In a universe at the brink of war, seven pilgrims travel to the distant world of Hyperion, each with their own secrets and agendas, to seek answers from the enigmatic Shrike."
+    },
+    {
+      "book_code": "SF010",
+      "title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/71XqE4caMNL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A human envoy is sent to the planet Gethen to persuade its inhabitants to join a league of planets, but as he navigates their androgynous society and harsh environment, he learns valuable lessons about identity and empathy."
+    },
+    {
+      "book_code": "SF011",
+      "title": "Do Androids Dream of Electric Sheep?",
+      "author": "Philip K. Dick",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/81+Tcrv-ikL._AC_UF1000,1000_QL80_.jpg",
+      "description": "In a post-apocalyptic world where androids are indistinguishable from humans, a bounty hunter tasked with 'retiring' rogue androids uncovers unsettling truths about himself and the nature of consciousness."
+    },
+    {
+      "book_code": "SF012",
+      "title": "Altered Carbon",
+      "author": "Richard K. Morgan",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/B13gH8nPGsS._AC_UF1000,1000_QL80_.jpg",
+      "description": "In a future where human consciousness can be transferred to new bodies, a former soldier is hired to investigate a wealthy man's apparent suicide, leading to a complex web of corruption and intrigue."
+    },
+    {
+      "book_code": "SF013",
+      "title": "Jurassic Park",
+      "author": "Michael Crichton",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/91CbcH+c5eL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A billionaire entrepreneur creates a theme park filled with genetically engineered dinosaurs, but when the park's security systems fail, chaos ensues and survival becomes uncertain."
+    },
+    {
+      "book_code": "SF014",
+      "title": "The Three-Body Problem",
+      "author": "Liu Cixin",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/818l7Ujz5-L._AC_UF1000,1000_QL80_.jpg",
+      "description": "A physicist discovers a mysterious signal from space that may be a message from an alien civilization, setting off a chain of events that span decades and challenge humanity's understanding of the universe."
+    },
+    {
+      "book_code": "SF015",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/81zE42gT3xL._AC_UF1000,1000_QL80_.jpg",
+      "description": "In a dystopian future where society is engineered for stability and conformity, a young man rebels against the rigid social order and questions the price of happiness."
+    },
+    {
+      "book_code": "SF016",
+      "title": "The Time Machine",
+      "author": "H.G. Wells",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/51mAQNjHtoL.jpg",
+      "description": "A Victorian scientist invents a machine that allows him to travel through time, witnessing the distant future where humanity has evolved into two distinct species: the Eloi and the Morlocks."
+    },
+    {
+      "book_code": "SF017",
+      "title": "Contact",
+      "author": "Carl Sagan",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/419TaQAULML._SY445_SX342_.jpg",
+      "description": "A scientist receives a mysterious signal from an extraterrestrial civilization, leading to a global effort to decode the message and make contact with the enigmatic beings."
+    },
+    {
+      "book_code": "SF018",
+      "title": "The War of the Worlds",
+      "author": "H.G. Wells",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/71GNnwrqYmL._AC_UF1000,1000_QL80_.jpg",
+      "description": "When Martians invade Earth with advanced technology, humanity must unite against the alien threat or face extinction in this classic tale of interplanetary war."
+    },
+    {
+      "book_code": "SF019",
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/61I24wOsn8L._AC_UF1000,1000_QL80_.jpg",
+      "description": "In a dystopian future, children are forced to fight to the death in a televised spectacle for the entertainment of the ruling elite, but one young girl's defiance sparks a rebellion."
+    },
+    {
+      "book_code": "SF020",
+      "title": "The Expanse: Leviathan Wakes",
+      "author": "James S.A. Corey",
+      "genre": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/81eF+48V8hL._AC_UF1000,1000_QL80_.jpg",
+      "description": "In a future where humanity has colonized the solar system, a detective and a ship's captain uncover a conspiracy that threatens to ignite war between Earth, Mars, and the Belt."
+    },
+    {
+      "book_code": "BIO001",
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/81D2c7ViyKL._AC_UF1000,1000_QL80_.jpg",
+      "description": "The diary of Anne Frank, a Jewish girl in hiding during the Nazi occupation of the Netherlands, providing a poignant and firsthand account of life during the Holocaust."
+    },
+    {
+      "book_code": "BIO002",
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/71PTAp96xLL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A comprehensive biography of Steve Jobs, the visionary co-founder of Apple Inc., chronicling his life, career, and impact on technology and culture."
+    },
+    {
+      "book_code": "BIO003",
+      "title": "The Autobiography of Malcolm X",
+      "author": "Malcolm X",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/61ji-J8nR6L._AC_UF1000,1000_QL80_.jpg",
+      "description": "Malcolm X's compelling autobiography, tracing his journey from a troubled youth in Harlem to becoming one of the most prominent figures in the civil rights movement."
+    },
+    {
+      "book_code": "BIO004",
+      "title": "Unbroken: A World War II Story of Survival, Resilience, and Redemption",
+      "author": "Laura Hillenbrand",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/81nSMaGQFxL._AC_UF1000,1000_QL80_.jpg",
+      "description": "The extraordinary true story of Louis Zamperini, an Olympic athlete and WWII bombardier who survives a plane crash, drifting at sea for weeks, and brutal treatment as a prisoner of war."
+    },
+    {
+      "book_code": "BIO005",
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/81jfDTSLQ9L._AC_UF1000,1000_QL80_.jpg",
+      "description": "Michelle Obama's intimate memoir, reflecting on her upbringing on the South Side of Chicago, her career as a lawyer and advocate, and her time as First Lady of the United States."
+    },
+    {
+      "book_code": "BIO006",
+      "title": "Leonardo da Vinci",
+      "author": "Walter Isaacson",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/91Ey0+6N-LL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A captivating biography of Leonardo da Vinci, exploring his genius as an artist, inventor, scientist, and thinker, and his enduring influence on the world."
+    },
+    {
+      "book_code": "BIO007",
+      "title": "The Glass Castle",
+      "author": "Jeannette Walls",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/81tLui2OjVL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Jeannette Walls' memoir of her unconventional and nomadic upbringing, marked by poverty, dysfunction, and resilience, as she strives to overcome her past and find her place in the world."
+    },
+    {
+      "book_code": "BIO008",
+      "title": "Long Walk to Freedom",
+      "author": "Nelson Mandela",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/91jMa+ndqrL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Nelson Mandela's autobiography, recounting his journey from activist to political prisoner to President of South Africa, and his lifelong dedication to the fight against apartheid and injustice."
+    },
+    {
+      "book_code": "BIO009",
+      "title": "Anne Frank: The Biography",
+      "author": "Melissa Müller",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/81YdiYKC3-L._AC_UF1000,1000_QL80_.jpg",
+      "description": "A comprehensive biography of Anne Frank, drawing from interviews, archives, and personal documents to provide a detailed portrait of her life, family, and legacy."
+    },
+    {
+      "book_code": "BIO010",
+      "title": "Born a Crime: Stories from a South African Childhood",
+      "author": "Trevor Noah",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/91shjDQ3TBL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Trevor Noah's memoir of growing up mixed-race in apartheid-era South Africa, navigating a world where his very existence was a crime, yet finding humor and hope amidst adversity."
+    },
+    {
+      "book_code": "BIO011",
+      "title": "Educated",
+      "author": "Tara Westover",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/71QIkI8YetL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Tara Westover's memoir of her unconventional upbringing in a strict and isolated Idaho family, her journey to self-education, and her quest for knowledge and identity beyond her past."
+    },
+    {
+      "book_code": "BIO012",
+      "title": "I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban",
+      "author": "Malala Yousafzai",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/51+KAjSldzL.jpg",
+      "description": "Malala Yousafzai's inspiring autobiography, recounting her advocacy for girls' education in Pakistan, her survival of an assassination attempt by the Taliban, and her ongoing fight for equality and justice."
+    },
+    {
+      "book_code": "BIO013",
+      "title": "Alexander Hamilton",
+      "author": "Ron Chernow",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/71feNEfgYRL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A comprehensive biography of Alexander Hamilton, one of America's Founding Fathers, tracing his rise from poverty in the Caribbean to his crucial role in shaping the nation's politics and economy."
+    },
+    {
+      "book_code": "BIO014",
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/81coyP8S-ZL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Rebecca Skloot's exploration of the life and legacy of Henrietta Lacks, whose cancer cells were taken without her consent in the 1950s, leading to groundbreaking medical discoveries and ethical controversies."
+    },
+    {
+      "book_code": "BIO015",
+      "title": "Open",
+      "author": "Andre Agassi",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/91GKLzZAj3L._AC_UF1000,1000_QL80_.jpg",
+      "description": "Andre Agassi's candid autobiography reveals the highs and lows of his tennis career, from his rise to stardom to his struggles with fame, family, and self-discovery."
+    },
+    {
+      "book_code": "BIO016",
+      "title": "My Own Words",
+      "author": "Ruth Bader Ginsburg",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/81nkCYQj2gL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A collection of writings and speeches by Ruth Bader Ginsburg, the pioneering Supreme Court Justice, offering insights into her life, work, and commitment to gender equality and justice."
+    },
+    {
+      "book_code": "BIO017",
+      "title": "Lab Girl",
+      "author": "Hope Jahren",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/81csh2s0pLL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Hope Jahren's memoir intertwines her personal journey as a scientist with reflections on plants, friendship, and perseverance, providing a captivating and lyrical exploration of nature and discovery."
+    },
+    {
+      "book_code": "BIO018",
+      "title": "Bossypants",
+      "author": "Tina Fey",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/81wOflATS3L._AC_UF1000,1000_QL80_.jpg",
+      "description": "Tina Fey's witty and candid memoir reflects on her career in comedy, from her days on Saturday Night Live to creating and starring in 30 Rock, offering insights into humor, feminism, and motherhood."
+    },
+    {
+      "book_code": "BIO019",
+      "title": "Steve Jobs: The Man Who Thought Different",
+      "author": "Karen Blumenthal",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/814FnSugCWL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A biography of Steve Jobs, the co-founder of Apple Inc., exploring his visionary leadership, innovative products, and complex personality, revealing the man behind the iconic brand."
+    },
+    {
+      "book_code": "BIO020",
+      "title": "Becoming Maria: Love and Chaos in the South Bronx",
+      "author": "Sonia Manzano",
+      "genre": "Biography",
+      "image": "https://m.media-amazon.com/images/I/919X+tzg8nL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Sonia Manzano's memoir recounts her childhood growing up in the South Bronx, her journey to become an actress on Sesame Street, and her struggles with identity, family, and love."
+    }
+  ]
+}

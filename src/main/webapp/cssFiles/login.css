@@ -9,6 +9,7 @@ html, body {
 }
 
 .main {
+	background-image:linear-gradient(to bottom right, #8cb3de, #bec0d1);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,7 +19,7 @@ html, body {
 
 .sub_div {
     display: grid;
-    background-color: #FFE4B5;
+    background-image: linear-gradient(to bottom right, #bec0d1, #8cb3de);
     padding: 20px;
     border-radius: 12px 0px 0px 12px;
     width: 400px;

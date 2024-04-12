@@ -1,68 +1,89 @@
 @charset "UTF-8";
- body {
-            font-family: Arial, sans-serif;
-            background-color: #f3f2ef;
-            margin: 0;
-            padding: 20px;
-        }
-        .container {
-            max-width: 600px;
-            margin: 0 auto;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .form-group {
-            margin-bottom: 20px;
-        }
-        label {
-            display: block;
-            font-weight: bold;
-            margin-bottom: 5px;
-        }
-        select {
-            width: 100%;
-            padding: 10px;
-            border-radius: 5px;
-            border: 1px solid #ccc;
-            background-color: #fff;
-            font-size: 16px;
-        }
-        button {
-            background-color: #0073b1;
-            color: #fff;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 5px;
-            cursor: pointer;
-            font-size: 16px;
-        }
-        button:hover {
-            background-color: #005f8d;
-        }
-        .selected-items {
-            margin-top: 20px;
-            border-top: 1px solid #ccc;
-            padding-top: 10px;
-            display: flex;
-            flex-wrap: wrap;
-        }
-        .selected-item {
-            margin-right: 10px;
-            margin-bottom: 10px;
-            background-color: #0073b1;
-            color: #fff;
-            padding: 5px 10px;
-            border-radius: 5px;
-            display: flex;
-            align-items: center;
-        }
-        .selected-item svg {
-            margin-left: 5px;
-            cursor: pointer;
-        }
-        h2{
-        text-align: center;
-        font-family: cursive;
-        }
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F5BD8A;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #FFE4B5;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+select {
+    width: 100%;
+    padding: 12px;
+    border-radius: 5px;
+    border: 2px solid #C08433;
+    background-color: #fff;
+    font-size: 16px;
+    outline: none; /* Remove default outline */
+}
+
+
+#applybtn,
+#submitbtn {
+    background-color: #9E4C0E;
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+#applybtn:hover,
+#submitbtn:hover {
+    background-color:#E88840;
+}
+
+#applybtn:disabled,
+#submitbtn:disabled {
+    background-color: #F3B766;
+    cursor: not-allowed;
+}
+
+.selected-items {
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.selected-item {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: #E88840;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.selected-item svg {
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+h2 {
+    text-align: center;
+    font-family: cursive;
+}

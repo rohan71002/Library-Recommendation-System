@@ -8,13 +8,26 @@
 	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="D:/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0.jar">
+	<classpathentry kind="lib" path="C:/Users/deves/eclipse-workspace/lib_book_recommendation_sys/externalJars/mysql-connector-j-8.3.0.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/deves/eclipse-workspace/lib_book_recommendation_sys/activation-1.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/deves/eclipse-workspace/lib_book_recommendation_sys/javax.mail.jar"/>
-	<classpathentry kind="lib" path="C:/Users/deves/eclipse-workspace/lib_book_recommendation_sys/json-simple-1.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/deves/eclipse-workspace/lib_book_recommendation_sys/externalJars/activation-1.1.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/deves/eclipse-workspace/lib_book_recommendation_sys/externalJars/javax.mail.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/deves/eclipse-workspace/lib_book_recommendation_sys/externalJars/json-simple-1.1.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/main/webapp/htmlFiles/Login.html"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
