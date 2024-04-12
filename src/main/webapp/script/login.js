@@ -6,7 +6,7 @@ $(document).ready(function() {
         event.preventDefault();
 
         // Get the email and password from the input fields
-        let email = $("#email").val();
+        let email = $("#email").val().trim();
         let pass = $("#password").val();
 
 sessionStorage.setItem('mail', email);
