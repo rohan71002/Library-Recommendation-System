@@ -7,6 +7,12 @@ $(document).ready(function() {
         let pass = $("#pword").val();
         let cnfpass = $("#cnfpword").val();
         let Role = $("#role").val();
+        let namePattern = /^[A-Za-z]+(?:[ -][A-Za-z]+)*$/;
+        let chckName=namePattern.test(name);
+       let emailPattern = /^[\w]+@([\w-]+\.)+[\w-]{2,4}$/;
+let chckemail = emailPattern.test(email);
+
+console.log(chckemail)
 
         console.log("name" + name);
         console.log("email" + email);
@@ -14,6 +20,15 @@ $(document).ready(function() {
         console.log("cnfpass" + cnfpass);
         console.log("Role" + Role);
 
+        
+        if(!chckName){
+			Swal.fire({
+                title: "Error",
+                text: "Name invalid",
+                icon: "error"
+            });
+            return; 
+		}
         if (phone.length !== 10) {
             Swal.fire({
                 title: "Error",
@@ -22,6 +37,14 @@ $(document).ready(function() {
             });
             return; // Exit the function early if phone number is invalid
         } 
+        if(!chckemail){
+			Swal.fire({
+                title: "Error",
+                text: "Email invalid",
+                icon: "error"
+            });
+            return; 
+		}
 
         if (pass.length < 8) {
             Swal.fire({
@@ -40,7 +63,14 @@ $(document).ready(function() {
             });
             return; // Exit the function early if passwords do not match
         }
-
+if (Role === null) {
+            Swal.fire({
+                title: "Error",
+                text: "role cant be empty",
+                icon: "error"
+            });
+            return; // Exit the function early if passwords do not match
+        }
         $.ajax({
             type: "POST",
             url: "../jspFiles/signup.jsp",

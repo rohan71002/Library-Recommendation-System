@@ -8,6 +8,23 @@ html, body {
     height: 100%;
     background-color: #f0f0f0;
 }
+.login-link{
+	position: relative;
+	top:8px;
+}
+ul.navbar-nav{
+	    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: #8cb3de !important; /* Set navbar background color */
+}
 
 .main {
     background-image: linear-gradient(to bottom right, #8cb3de, #bec0d1);
@@ -17,22 +34,22 @@ html, body {
     height: 100vh;
 }
 
- .sub_div {
-            display: flex;
-             background-image: linear-gradient(to bottom right, #bec0d1, #8cb3de);
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
-            border-radius: 0px 12px 12px 0px;
-            background-color: white;
-            height: 500px; /* Added height to match other div */
-            width: 300px; /* Added width to match other div */
-            padding: 20px;
-        }
+.sub_div {
+    display: flex;
+    background-image: linear-gradient(to bottom right, #bec0d1, #8cb3de);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    border-radius: 0px 12px 12px 0px;
+    background-color: white;
+    height: 500px; /* Added height to match other div */
+    width: 300px; /* Added width to match other div */
+    padding: 20px;
+}
 
 .sub_div_child {
-           display: flex;
+    display: flex;
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
     background-image: linear-gradient(to bottom right, #8cb3de, #bec0d1);
     border-radius: 12px 0px 0px 12px;
@@ -42,7 +59,7 @@ html, body {
     justify-content: center;
     flex-wrap: wrap;
     align-content: stretch;
-  flex-direction: column;
+    flex-direction: column;
 }
 
 .form {
@@ -63,16 +80,11 @@ h1 {
 .swit {
     text-align: center;
 }
-#logoutLink{
-	cursor:pointer;
+
+#logoutLink {
+    cursor: pointer;
 }
 
-.navbar {
-      position: fixed;
-      top: 0;
-      width: 100%;
-      z-index: 1000;
-    }
 .mainForm {
     margin: 0 16px;
 }
@@ -100,18 +112,3 @@ a:hover {
 .require {
     color: red;
 }
-    h1 {
-            font-family: cursive;
-            text-align: center;
-          
-        }
-p {
-                font-weight: 500;
-font-family: cursive;
- 
-margin-bottom: 10px;
-        }
-.abc{
-        background-color: #8cb3de !important;
-}
-        }
