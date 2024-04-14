@@ -1,7 +1,7 @@
 @charset "UTF-8";
  body {
         font-family: Arial, sans-serif;
-        background-color: #F5BD8A; /* Off-white background */
+        background-image: linear-gradient(to bottom right, #bec0d1, #8cb3de);
         margin: 0;
         padding: 0;
         display: flex;
@@ -12,7 +12,7 @@
     .container {
         width: 400px;
         padding: 40px;
-        background-color: #f5deb3; /* Cream container background */
+        background-image: linear-gradient(to bottom right, #8cb3de, #bec0d1);
         border-radius: 12px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
