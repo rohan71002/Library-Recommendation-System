@@ -102,3 +102,7 @@ a:hover{
     z-index: 1000;
     background-color: #8cb3de !important; /* Set navbar background color */
 }
+#submitbtn:disabled{
+	cursor:not-allowed;
+	background-color:grey;
+}

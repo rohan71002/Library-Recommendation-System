@@ -1,33 +1,27 @@
 $(document).ready(function() {
-	let email = sessionStorage.getItem("mail");		
-	$('#logoutLink').click(function(event) {
-        // Prevent default link behavior
+    let email = sessionStorage.getItem("mail");
+
+    $('#logoutLink').click(function(event) {
         event.preventDefault();
-        
-        // Clear session storage
         sessionStorage.removeItem("mail");
-        
         Swal.fire({
             title: "Logout Successfully",
             text: "Redirecting to Login Form...",
             icon: "success",
             showConfirmButton: true,
         }).then(function() {
-            window.location.href = "../htmlFiles/Login.html"; // Change the URL as needed
+            window.location.href = "../htmlFiles/Login.html";
         });
     });
-         
-        $.ajax({
+
+    $.ajax({
         url: "../jspFiles/profile.jsp",
         method: "GET",
         dataType: "json",
         success: function(userData) {
-			console.log("data",userData)
-           let name = userData.name;
-           console.log("data",userData.name)
-           let phone = userData.phone;
-            console.log("data",userData.phone)
-           $("#name").val(name);
+            let name = userData.name;
+            let phone = userData.phone;
+            $("#name").val(name);
             $("#phone").val(phone);
             $("#email").val(email);
         },
@@ -35,16 +29,56 @@ $(document).ready(function() {
             console.error("Error fetching profile data:", error);
         }
     });
-    
+
+    // Initially disable the submit button
+    $("#submitbtn").prop("disabled", true);
+
     $("#editbtn").click(function(event) {
-    $("#name").prop("disabled", function(i, val) {
-        var newState = !val;
-        $("#editbtn").text(newState ? "Edit" : "No Edit");
-        return newState;
+        $("#name").prop("disabled", function(i, val) {
+            newState = !val;
+            $("#editbtn").text(newState ? "Edit" : "No Edit");
+            return newState;
+        });
+        $("#phone").prop("disabled", function(i, val) {
+            return !val; // Toggle the disabled state
+        });
+
+        // Enable the submit button
+        $("#submitbtn").prop("disabled", false).css("cursor", "pointer");
     });
-    $("#phone").prop("disabled", function(i, val) {
-        return !val; // Toggle the disabled state
+
+    $("#submitbtn").click(function(event) {
+        let name = $('#name').val();
+        let phone = $('#phone').val();
+        event.preventDefault();
+        $.ajax({
+            type: "POST",
+            url: "../jspFiles/updateProfile.jsp",
+            data: {
+                name: name,
+                phone: phone
+            },
+            success: function(response) {
+                console.log(response)
+                let change = response.substring(0, 6);
+                if (change === "change") {
+                    Swal.fire({
+                        title: "Updated Successfully",
+                        text: "Redirecting to Dashboard Page....",
+                        icon: "success"
+                    }).then(function() {
+                        window.location.href = "../htmlFiles/Dashboard.html";
+                    });
+                }
+            },
+            error: function(xhr, status, error) {
+                console.error(error);
+                Swal.fire({
+                    title: "Failed",
+                    icon: "error"
+                });
+            }
+        });
     });
-});
-        
+
 });

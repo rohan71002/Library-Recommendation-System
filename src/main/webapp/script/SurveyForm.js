@@ -17,7 +17,7 @@ $(document).ready(function() {
     });
 
     // Get email from sessionStorage
-    let email = localStorage.getItem("mail"); 
+    let email = sessionStorage.getItem("mail"); 
     let emailFirst = email.split('@');
     console.log(emailFirst[0]);
     if (email) {

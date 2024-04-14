@@ -28,6 +28,7 @@ $(document).ready(function() {
            let phone = userData.phone;
            $("#name").text(name);
             $("#email").text(email);
+            $("#role").text(role);
             $("#phone").text(phone);
            
         },
