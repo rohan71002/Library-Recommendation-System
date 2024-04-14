@@ -42,9 +42,9 @@ ul.navbar-nav{
     align-items: center;
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
     border-radius: 0px 12px 12px 0px;
-    background-color: white;
+
     height: 500px; /* Added height to match other div */
-    width: 300px; /* Added width to match other div */
+    width: 360px; /* Added width to match other div */
     padding: 20px;
 }
 
@@ -71,7 +71,8 @@ ul.navbar-nav{
 }
 
 h1 {
-    font-family: cursive;
+	font-size:60px;
+    font-family: monospace;
     margin-top: 20px;
     text-align: center;
     color: #333;
@@ -111,4 +112,18 @@ a:hover {
 
 .require {
     color: red;
+}
+#name{
+	font-weight:500;
+	font-size:35px;
+	font-family:monospace;
+}
+#email,#role,#phone{
+	font-size:20px;
+	font-weight:600;
+	font-family:monospace;
+}
+p{
+	font-weight:500;
+	font-family:monospace;
 }
