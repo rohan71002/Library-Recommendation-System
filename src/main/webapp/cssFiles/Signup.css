@@ -13,7 +13,7 @@ html, body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-background-image: linear-gradient(to bottom right, #bec0d1, #8cb3de);
+    background-image: linear-gradient(to bottom right, #bec0d1, #2c5ba8);
 }
 
 .sub_div {
@@ -24,11 +24,13 @@ background-image: linear-gradient(to bottom right, #bec0d1, #8cb3de);
     width: 400px;
     height: 650px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    background-image: linear-gradient(to bottom right, #8cb3de, #bec0d1);
+    background-image: linear-gradient(to bottom right, #2c5ba8, #bec0d1);
 }
+
 .form:visited {
-	border-color:#F7CFA7;
+    border-color: #F7CFA7;
 }
+
 .form {
     display: grid;
     height: 5vh;
@@ -39,13 +41,15 @@ background-image: linear-gradient(to bottom right, #bec0d1, #8cb3de);
     border-radius: 5px;
     align-items: baseline;
 }
-.mainForm{
-	    margin: 0px 30px;
+
+.mainForm {
+    margin: 0px 30px;
 }
+
 h1 {
-	font-family:cursive;
+    font-family: cursive;
     text-align: center;
-    color: #004b80;    
+    color: #004b80;
 }
 
 .swit {
@@ -53,14 +57,15 @@ h1 {
 }
 
 .login_btn:hover {
-	background-color: #75c6ff;
+    background-color: #75c6ff;
     border-radius: 10px;
     width: 100%; /* Make the button width 100% */
     margin: 11px 0px 11px 0px;
-    border:1px solid #004b80;
-     color: #9E4C0E;
+    border: 1px solid #004b80;
+    color: #9E4C0E;
     font-weight: 600;
 }
+
 .login_btn {
     font-family: cursive;
     background-color: #002766;
@@ -79,25 +84,53 @@ img {
     height: 650px;
     object-fit: cover;
 }
-.sub_div_child{
-box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
-    border-radius: 12px;}
-label{
-	    font-weight: 600;
+
+.sub_div_child {
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    border-radius: 12px;
 }
-a{
-	    color: #002766;
+
+label {
+    font-weight: 600;
 }
-a:hover{
-	    color: #E88840;
+
+a {
+    color: #002766;
 }
-.require{
-	color:red;
+
+a:hover {
+    color: #E88840;
 }
-.navbar {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 1000;
-    background-color: #8cb3de !important; /* Set navbar background color */
+
+.require {
+    color: red;
+}
+
+/* @media queries for responsiveness */
+
+@media screen and (max-width: 768px) {
+    .main {
+        height: auto; /* Remove fixed height */
+    }
+
+    .sub_div {
+        width: 90%; /* Adjust width for smaller screens */
+        height: auto; /* Remove fixed height */
+        max-width: 90%; /* Ensure maximum width */
+        margin: 20px; /* Add some margin */
+    }
+
+    img {
+        width: 100%; /* Make image width 100% of parent container */
+        border-radius: 12px 12px 0px 0px; /* Adjust border radius */
+        height: auto; /* Maintain aspect ratio */
+    }
+
+    .login_btn,
+    .login_btn:hover {
+        width: 80%; /* Adjust button width for smaller screens */
+        margin-left: 10%; /* Adjust margin for centering */
+        margin-top: 5vw; /* Adjust margin relative to viewport width */
+        font-size: 18px; /* Increase font size for smaller screens */
+    }
 }

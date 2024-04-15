@@ -1,17 +1,7 @@
 $(document).ready(function() {
-	$("#sendOTP").prop("disabled", true).css("background-color", "#666").css("cursor", "not-allowed").css("color", "white");
+	let email = sessionStorage.getItem("mail"); 
+	$('#mail').val(email).prop('disabled',true).css('background-color',"#d9defc")
 	
-	$("#mail").on("input", function() {
-        if ($(this).val().trim() !== "") {
-            $("#sendOTP").prop("disabled", false).css("background-color", "#002766").css("cursor", "pointer").css("color","#F5BD8A").hover(function() {
-        $(this).css("background-color", "#003d99");
-    }, function() {
-        $(this).css("background-color", "#002766");
-    });
-        } else {
-            $("#sendOTP").prop("disabled", true).css("background-color", "#666").css("cursor", "not-allowed").css("color","white");
-        }
-    });
 	$("#verifyOTP").prop("disabled", true).css("background-color", "#666").css("cursor", "not-allowed").css("color", "white");
 	
 	$("#otp").on("input", function() {
@@ -38,7 +28,7 @@ $(document).ready(function() {
                     });
         $.ajax({
             type: "POST",
-            url: "../jspFiles/forgot.jsp",
+            url: "../jspFiles/sendotpemail.jsp",
             data: { mail: recipient },
             success: function(response) {
             	console.log(response)
@@ -53,7 +43,7 @@ $(document).ready(function() {
                 }
             	else{
             	Swal.fire({
-            		  title: "OTP Sent Successfully",
+            		  title: "OTP Sent SuccessFully",
             		  icon: "success"
             		}).then(()=>
             		{
@@ -110,7 +100,7 @@ $("#verifyOTP").click(function(event) {
 			else{
 			swal.fire({
     title: "OTP verified Successfully",
-    text: "Your password has been sent to your registered email. Redirecting to Login page...",
+    text: "Redirecting to Login page...",
     icon: "success"
 }).then(() => {
     window.location.href = "../htmlFiles/Login.html";

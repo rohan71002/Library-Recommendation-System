@@ -1,5 +1,6 @@
 $(document).ready(function() {
     let email = sessionStorage.getItem("mail");
+    let initialName, initialPhone;
 
     $('#logoutLink').click(function(event) {
         event.preventDefault();
@@ -24,6 +25,9 @@ $(document).ready(function() {
             $("#name").val(name);
             $("#phone").val(phone);
             $("#email").val(email);
+            
+             initialName = name;
+            initialPhone = phone;
         },
         error: function(xhr, status, error) {
             console.error("Error fetching profile data:", error);
@@ -34,9 +38,13 @@ $(document).ready(function() {
     $("#submitbtn").prop("disabled", true);
 
     $("#editbtn").click(function(event) {
+		if ($("#editbtn").text() === "Discard") {
+            $("#name").val(initialName);
+            $("#phone").val(initialPhone);
+        }
         $("#name").prop("disabled", function(i, val) {
             newState = !val;
-            $("#editbtn").text(newState ? "Edit" : "No Edit");
+            $("#editbtn").text(newState ? "Edit" : "Discard");
             return newState;
         });
         $("#phone").prop("disabled", function(i, val) {
@@ -45,6 +53,7 @@ $(document).ready(function() {
 
         // Enable the submit button
         $("#submitbtn").prop("disabled", false).css("cursor", "pointer");
+         
     });
 
     $("#submitbtn").click(function(event) {

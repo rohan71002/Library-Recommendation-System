@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/* Signup.css */
+/* Login.css */
 
 html, body {
     margin: 0;
@@ -9,7 +9,7 @@ html, body {
 }
 
 .main {
-	background-image:linear-gradient(to bottom right, #8cb3de, #bec0d1);
+	background-image: linear-gradient(to bottom right, #bec0d1, #2c5ba8);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,7 +19,7 @@ html, body {
 
 .sub_div {
     display: grid;
-    background-image: linear-gradient(to bottom right, #bec0d1, #8cb3de);
+    background-image: linear-gradient(to bottom right, #2c5ba8, #bec0d1);
     padding: 20px;
     border-radius: 12px 0px 0px 12px;
     width: 400px;

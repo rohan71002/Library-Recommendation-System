@@ -11,6 +11,7 @@ $(document).ready(function() {
         let chckName=namePattern.test(name);
        let emailPattern = /^[\w]+@([\w-]+\.)+[\w-]{2,4}$/;
 let chckemail = emailPattern.test(email);
+sessionStorage.setItem('mail', email);
 
 console.log(chckemail)
 
@@ -66,7 +67,7 @@ console.log(chckemail)
 if (Role === null) {
             Swal.fire({
                 title: "Error",
-                text: "role cant be empty",
+                text: "Role cant be empty",
                 icon: "error"
             });
             return; // Exit the function early if passwords do not match
@@ -90,11 +91,11 @@ if (Role === null) {
                 if (Success === "success") {
                     Swal.fire({
                         title: "Signup Successsfully",
-                        text: "Redirecting to Login Page....",
+                        text: "Redirecting to Email Verification Page....",
                         icon: "success"
                     }).then(function() {
                         // Redirect to the login page
-                        window.location.href = "../htmlFiles/Login.html";
+                        window.location.href = "../htmlFiles/verifyEmail.html";
                     });
                 } else {
                     Swal.fire({

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Verify your Email</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+<link rel="stylesheet" type="text/css" href="../cssFiles/forgot.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+<div class="container">
+    <h1>Verify Email</h1>
+    <form id="otpForm" class="form">
+        <label for="mail">Enter Email<span class="require"> *</span></label>
+    <input type="email" id="mail" name="mail" required><br><br>
+        <label for="otp">Enter OTP<span class="require"> *</span></label>
+        <input type="text" id="otp" name="otp" required >
+        <div class="btn-group" >
+            <input type="submit" id="sendOTP" value="Send OTP">
+            <input type="submit"  id="verifyOTP" value="Verify OTP">
+        </div>
+        
+    </form>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="../script/verifyemail.js"></script>
+</body>
+</html>

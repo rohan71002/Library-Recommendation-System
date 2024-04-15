@@ -1,18 +1,20 @@
 @charset "UTF-8";
 body {
     font-family: Arial, sans-serif;
-    background-color: #F5BD8A;
+    background-image: linear-gradient(to bottom right, #2c5ba8, #bec0d1);
     margin: 0;
     padding: 20px;
+    height:100vh;
+    
 }
 
 .container {
     max-width: 600px;
     margin: 0 auto;
-    background-color: #FFE4B5;
+    background-image: linear-gradient(to bottom right, #bec0d1, #2c5ba8);
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 
 .form-group {
@@ -29,7 +31,7 @@ select {
     width: 100%;
     padding: 12px;
     border-radius: 5px;
-    border: 2px solid #C08433;
+    border: 2px solid #344ded;
     background-color: #fff;
     font-size: 16px;
     outline: none; /* Remove default outline */
@@ -38,25 +40,32 @@ select {
 
 #applybtn,
 #submitbtn {
-    background-color: #9E4C0E;
-    color: #fff;
-    border: none;
+    background-color: #002766;
+    color: #F5BD8A;
+    font-family: cursive;
+    border: 1px solid #002766;
     padding: 12px 24px;
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
+    font-weight: 600;
+    box-shadow: 0 0 10px #004b80;
     transition: background-color 0.3s ease;
 }
 
 #applybtn:hover,
 #submitbtn:hover {
-    background-color:#E88840;
+    background-color:#75c6ff;
+    color:#82512C;
+    border: 1px solid #002766;
 }
 
 #applybtn:disabled,
 #submitbtn:disabled {
-    background-color: #F3B766;
+    background-color: #95a1ed;
     cursor: not-allowed;
+    color: white;
+    border:none;
 }
 
 .selected-items {
@@ -66,16 +75,19 @@ select {
     display: flex;
     flex-wrap: wrap;
 }
-
+#crossIcon:nth-child(2){
+	display:none;
+}
 .selected-item {
     margin-right: 10px;
     margin-bottom: 10px;
-    background-color: #E88840;
+    background-color: #0016a6;
     color: #fff;
     padding: 5px 10px;
     border-radius: 5px;
     display: flex;
     align-items: center;
+    box-shadow: 0 0 10px #002766;
 }
 
 .selected-item svg {

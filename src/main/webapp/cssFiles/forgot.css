@@ -1,7 +1,7 @@
 @charset "UTF-8";
  body {
         font-family: Arial, sans-serif;
-        background-image: linear-gradient(to bottom right, #bec0d1, #8cb3de);
+        background-image: linear-gradient(to bottom right, #bec0d1, #2c5ba8);
         margin: 0;
         padding: 0;
         display: flex;
@@ -12,14 +12,14 @@
     .container {
         width: 400px;
         padding: 40px;
-        background-image: linear-gradient(to bottom right, #8cb3de, #bec0d1);
+        background-image: linear-gradient(to bottom right, #2c5ba8, #bec0d1);
         border-radius: 12px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
     h1 {
         text-align: center;
         margin-bottom: 30px;
-        color: #333;
+        color: #004b80;
         font-family:cursive;
     }
     label {
@@ -39,35 +39,34 @@
         font-size: 16px;
     }
     input[type="submit"] {
+        font-family: cursive;
         width: 40%;
         padding: 12px;
         margin-bottom: 20px;
-        border: 1px solid #654321; /* Brown border color */
+        border: 1px solid #004b80;
         border-radius: 6px;
         box-sizing: border-box;
-        background-color: #faf0e6; /* Off-white input background */
         font-size: 16px;
+        color: #F5BD8A;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        border: none;
+        outline: none;
+        background-color:#002766;	
     }
     .btn-group {
         display: flex;
         justify-content: space-between;
     }
-    input[type="submit"] {
-        background-color: #8b4513; /* Brown button color */
-        color: #fff;
-        cursor: pointer;
-        transition: background-color 0.3s ease;
-        border: none;
-        outline: none;
-    }
+    
     input[type="submit"]:hover 	 {
-        background-color: #654321; /* Darker shade of brown on hover */
+        background-color:#003d99; /* Darker shade of brown on hover */
     }
     .swit {
     text-align: center;
 }
 a{
-	    color: #9E4C0E;
+	    color: #002766;
 }
 a:hover{
 	    color: #E88840;
